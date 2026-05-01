@@ -1,0 +1,751 @@
+call_id,duration,num_questions_asked,qa_mismatch,wrong_number_flag,medical_advice_flag,transcript,has_ticket
+6b45f309-0900-4ccf-8103-94d5a454f3d5,386,5,0,0,0,"I have processed your request, is there anything else? Let me check the status of your order. Have a great day, thank you for being a customer.",0
+0219c58f-1c6a-425a-bd6e-c6f0cda06d74,593,2,0,0,0,"I have processed your request, is there anything else?",0
+7f63bfcc-0664-4c1c-931d-61e27423b38e,182,5,0,0,0,"Thank you for calling support, how can I help you? Let me check the status of your order.",0
+ed458fb3-15f6-4962-be5c-753ca98f50fe,371,2,0,0,0,"Let me check the status of your order. Thank you for calling support, how can I help you?",0
+ec07189b-915f-43b2-8f4d-20d4141c6535,384,1,0,0,0,Let me check the status of your order.,0
+46a5ceda-f8f3-44ce-bf9d-366642ecd0f4,415,4,0,0,0,"Have a great day, thank you for being a customer.",0
+6bc5737e-cc2e-40da-ac55-3af9caa987bb,30,4,0,0,0,"Have a great day, thank you for being a customer. Let me check the status of your order. I have processed your request, is there anything else?",0
+58a384ff-2a29-42e7-bc98-9bd3895ba661,252,3,0,0,0,"I have processed your request, is there anything else?",0
+67b04ffc-2294-42be-a6d6-6fc37623e509,584,4,0,0,0,"Let me check the status of your order. Thank you for calling support, how can I help you?",0
+9e007a50-af40-40f5-b485-7f49e037e846,446,2,0,0,0,"Have a great day, thank you for being a customer. Let me check the status of your order.",0
+9a0ef4dc-f427-4d10-9d7c-51efd084a9f1,242,3,0,0,0,"Have a great day, thank you for being a customer. Let me check the status of your order. Could you please verify your account number?",0
+4905d16e-f436-4b35-9a1b-c7c5583c6cb3,507,2,0,0,0,Let me check the status of your order. Could you please verify your account number?,0
+7a22a9da-a95e-4c9d-a1eb-d85f0d523032,573,4,0,0,0,"Have a great day, thank you for being a customer. Could you please verify your account number?",0
+46199ab0-e6f9-4422-9999-054d80551d33,723,1,0,0,0,"Thank you for calling support, how can I help you? Could you please verify your account number? I have processed your request, is there anything else?",0
+81fb777d-d3d2-4c00-acf6-e0ac19cb5ca5,104,5,0,0,0,"Have a great day, thank you for being a customer. Thank you for calling support, how can I help you? Let me check the status of your order.",0
+7e0066f0-5334-4196-82c7-a60d593eb394,374,1,0,0,0,"Thank you for calling support, how can I help you? Let me check the status of your order.",0
+1d2c0583-7191-416d-91dc-4a8bc3b9cc1e,106,1,0,0,0,Could you please verify your account number?,0
+c7d10c8d-12a7-4674-a66b-3822a36e50c9,578,4,0,0,0,Let me check the status of your order.,0
+c62e83ba-c5c3-4f15-91a5-4f31df6fe522,290,5,0,0,0,"Could you please verify your account number? I have processed your request, is there anything else? Thank you for calling support, how can I help you?",0
+53e14fbe-901d-4eda-b0cd-7f43e587163a,412,5,0,0,0,"Have a great day, thank you for being a customer. Could you please verify your account number? Let me check the status of your order.",0
+7733f523-535b-4bab-a541-9db8f10e8f5e,274,3,0,0,0,"Could you please verify your account number? Let me check the status of your order. I have processed your request, is there anything else?",0
+e2d76d32-d83b-4272-8440-10618b5915ae,339,4,0,0,0,"Have a great day, thank you for being a customer. I have processed your request, is there anything else? Let me check the status of your order.",0
+5e6c5555-e277-4ae3-ba9a-1bc3041afb9d,394,3,0,0,0,Could you please verify your account number?,0
+964904fe-e374-48e4-bf5c-e86065cc55df,513,5,0,0,0,"I have processed your request, is there anything else? Have a great day, thank you for being a customer.",0
+037905f2-b0c5-4a8e-b15f-6dac8eca3b78,461,3,0,0,0,"Have a great day, thank you for being a customer. Let me check the status of your order. I have processed your request, is there anything else?",0
+ebf7abe6-ff78-45cc-b120-4365d5b97c4f,433,5,0,0,0,Could you please verify your account number?,0
+97a3f95e-8285-490d-8464-66da1b6fc5ab,485,3,0,0,0,Let me check the status of your order.,0
+501a026d-8a80-4d26-9c4f-c722fdf27b50,231,4,0,0,0,"Let me check the status of your order. Have a great day, thank you for being a customer.",0
+9ea1638d-1bd0-45ca-80c9-f340d5645e5c,584,1,0,0,0,Let me check the status of your order.,0
+62b48392-c0eb-4495-a78a-709cec1f33fd,406,5,0,0,0,"Thank you for calling support, how can I help you? I have processed your request, is there anything else?",0
+3c43311a-1ba5-4594-ad7a-a4ffe4358ca5,215,4,0,0,0,"Have a great day, thank you for being a customer. I have processed your request, is there anything else? Thank you for calling support, how can I help you?",0
+1ec5101e-db47-41cc-a3e1-369ffa16f4db,155,5,0,0,0,Could you please verify your account number?,0
+3da17ef7-9f56-4bbd-b79d-c0767fc5eb5c,464,1,0,0,0,"Have a great day, thank you for being a customer. I have processed your request, is there anything else?",0
+d889217f-4e4a-4501-b297-1cd4c03f2f40,370,2,0,0,0,"Have a great day, thank you for being a customer.",0
+df1e1c15-704b-4ede-884b-903a4fdc3ac0,421,2,0,0,0,"Could you please verify your account number? Thank you for calling support, how can I help you?",0
+9d817bbc-738d-4255-938e-fa7fbd372eef,270,1,0,0,0,"Could you please verify your account number? I have processed your request, is there anything else? Thank you for calling support, how can I help you?",0
+998cd534-fc75-4dd8-9882-e11c75496fac,274,2,0,0,0,"Thank you for calling support, how can I help you? I have processed your request, is there anything else? Have a great day, thank you for being a customer.",0
+249bb87a-cada-4eba-9e0b-add8e79bf6cc,398,5,0,0,0,"I have processed your request, is there anything else?",0
+f150cb17-5f9c-472c-8045-4919b559d894,375,2,0,1,0,"Let me check the status of your order. Have a great day, thank you for being a customer. Sorry, I think I dialed the wrong number. Thank you for calling support, how can I help you?",1
+fb6cf84d-066b-45e4-8b7c-923aaff944dc,261,3,0,0,0,"Thank you for calling support, how can I help you? I have processed your request, is there anything else?",0
+7eabb70f-9f32-43ad-9b7d-c596c21c7ac8,549,4,0,0,0,"Thank you for calling support, how can I help you?",0
+c60d2598-29a5-4a71-98fe-23dd4f25e2a6,442,3,0,0,0,"Let me check the status of your order. I have processed your request, is there anything else? Thank you for calling support, how can I help you?",0
+49a17567-821c-41c5-93e2-de65ad809d3e,557,2,0,0,0,"Let me check the status of your order. Thank you for calling support, how can I help you?",0
+b53ad429-843e-4e0d-84d3-94364cb9784e,562,3,0,1,0,"Could you please verify your account number? Thank you for calling support, how can I help you? Sorry, I think I dialed the wrong number.",1
+adcf369e-8f3d-43d5-b7c8-c57d1e041481,302,4,0,0,0,Could you please verify your account number?,0
+32caf352-44a7-4e41-a1cc-66703ede8df5,514,1,0,1,0,"Could you please verify your account number? Have a great day, thank you for being a customer. Sorry, I think I dialed the wrong number. I have processed your request, is there anything else?",1
+47823e2c-48f9-49ba-91a2-e130dfed40c5,361,4,0,0,0,"Thank you for calling support, how can I help you? Have a great day, thank you for being a customer.",0
+7c1553de-fdfd-4021-b901-d0b6a2c93912,331,1,0,0,0,Let me check the status of your order.,0
+961cabb6-6e37-46f3-b6af-379ef7236a93,517,5,0,0,0,"Have a great day, thank you for being a customer.",0
+984db312-2b1f-4a41-b0cd-07dcecdc0078,580,4,0,0,0,"Could you please verify your account number? Have a great day, thank you for being a customer. Thank you for calling support, how can I help you?",0
+517daecb-5b69-4ff3-b37f-28e996898e60,539,3,0,0,0,"I have processed your request, is there anything else? Could you please verify your account number? Let me check the status of your order.",0
+da185700-361d-41d6-b807-80ec7b27b44e,376,4,0,0,0,"Let me check the status of your order. Have a great day, thank you for being a customer. Could you please verify your account number?",0
+06b1cb77-a2d0-40f0-ac70-a7b326bdc8fb,289,2,1,0,0,"Let me check the status of your order. Thank you for calling support, how can I help you? Have a great day, thank you for being a customer.",1
+fadb7801-a40b-4cc9-a8ce-f967d090fe5d,317,5,0,1,0,"Sorry, I think I dialed the wrong number. I have processed your request, is there anything else? Thank you for calling support, how can I help you? Have a great day, thank you for being a customer.",1
+920b932b-a01f-4fa3-ad1a-4aa77e2ab453,611,4,0,0,0,Could you please verify your account number?,0
+918deaf8-196f-4cda-bae5-76c73da48250,249,1,0,0,0,"Let me check the status of your order. I have processed your request, is there anything else? Thank you for calling support, how can I help you?",0
+2bb64a79-df5f-490c-a626-54829e376dba,71,5,0,0,0,"Have a great day, thank you for being a customer. I have processed your request, is there anything else? Could you please verify your account number?",0
+cc914326-328d-4235-a2a2-c4a2d53baf21,281,2,0,0,0,"Let me check the status of your order. I have processed your request, is there anything else?",0
+88ed04bc-b0f8-48a8-b697-01295901e47a,418,5,0,0,0,Let me check the status of your order. Could you please verify your account number?,0
+df81275f-9d54-4a1b-a9bc-b062791f5879,349,1,0,0,0,Could you please verify your account number?,0
+16be4212-ae84-4316-b88e-bed2c8aa7ecf,344,5,0,0,0,"Thank you for calling support, how can I help you?",0
+9ac03d32-6e15-4d74-9b32-5b9143f81c76,426,4,0,0,0,"Have a great day, thank you for being a customer.",0
+ca560ec4-c4ba-4c44-b3e5-a13965b6d003,407,4,0,0,0,"Have a great day, thank you for being a customer. Let me check the status of your order.",0
+15ff141b-30a6-415e-aa27-a33764047f77,286,1,0,0,0,"I have processed your request, is there anything else? Could you please verify your account number?",0
+2a2c4651-68e8-4765-a02a-0adc33d9ebcd,371,4,0,0,0,Could you please verify your account number?,0
+5bdf4b04-bd8d-42db-a530-2c1e0259d837,341,2,0,0,0,"Thank you for calling support, how can I help you?",0
+47931604-a2aa-4517-9ca7-f549b54ca305,395,3,0,0,0,"Let me check the status of your order. I have processed your request, is there anything else? Have a great day, thank you for being a customer.",0
+fed2d55a-dd3a-4d3c-8603-edeb4dde2b1d,404,3,0,0,0,"I have processed your request, is there anything else? Let me check the status of your order. Thank you for calling support, how can I help you?",0
+26e16860-9fd1-4853-be44-ef6eba906ab1,628,5,0,0,0,Let me check the status of your order.,0
+298df29e-827e-4d94-9311-8c8371cfb418,463,4,0,0,0,"I have processed your request, is there anything else? Could you please verify your account number? Let me check the status of your order.",0
+757ffb2d-e1aa-4048-b0a2-62ad5dff0d7a,321,3,0,0,0,Could you please verify your account number?,0
+ac0d304b-438c-4898-98ab-cd29141d8257,528,4,0,0,0,"I have processed your request, is there anything else?",0
+dd5eb423-4ff0-493d-9e19-57b3da9c092a,518,4,0,0,0,"Let me check the status of your order. Thank you for calling support, how can I help you?",0
+e2a9ab3f-e273-4f7d-b9b0-9c4a376207ee,103,2,0,0,0,"Have a great day, thank you for being a customer. Thank you for calling support, how can I help you? Let me check the status of your order.",0
+725ce067-f063-4826-8ee9-398110112721,289,5,0,0,0,Let me check the status of your order.,0
+d8d98498-f24c-4e43-8a6f-82c09da2bb5e,484,3,0,0,0,"Thank you for calling support, how can I help you? I have processed your request, is there anything else?",0
+a0a3dce4-bb68-4c95-8e32-f849012e57fe,369,5,0,0,0,"Let me check the status of your order. Thank you for calling support, how can I help you? I have processed your request, is there anything else?",0
+a0f91dc9-520f-4a91-8abe-4c3f53651706,382,2,0,1,0,"Have a great day, thank you for being a customer. Sorry, I think I dialed the wrong number. Thank you for calling support, how can I help you? Could you please verify your account number?",1
+4db3b190-cbb3-4c46-badb-7213282ee588,367,1,0,0,1,"Thank you for calling support, how can I help you? You should stop taking that medication immediately.",1
+247d17df-31ed-4606-9645-9f5ac9f8979a,494,5,0,0,0,"Have a great day, thank you for being a customer.",0
+6e9a970e-0e98-4bbb-a077-c82638d549e6,415,5,0,0,0,Let me check the status of your order.,0
+4eb779f4-7fcc-47bb-bca3-0ed49a0b301c,433,2,0,0,0,"Let me check the status of your order. Could you please verify your account number? I have processed your request, is there anything else?",0
+14800dec-598a-4f3f-8c23-a7c517cd32d0,467,2,0,0,0,"Could you please verify your account number? Thank you for calling support, how can I help you? I have processed your request, is there anything else?",0
+5f2f3b97-9f65-4833-85a6-14c7ceb14a85,395,2,0,0,0,"Could you please verify your account number? Have a great day, thank you for being a customer.",0
+e531abd8-e046-4202-ab28-5d4a4af9b832,421,3,1,0,0,"Could you please verify your account number? Have a great day, thank you for being a customer. Let me check the status of your order.",1
+979d87c2-9bc4-4788-b4be-7bc1935021bc,392,2,0,0,0,"I have processed your request, is there anything else? Let me check the status of your order. Could you please verify your account number?",0
+b8d6cc6f-113e-47e9-ad65-72d63591fdbf,499,1,0,0,0,"Have a great day, thank you for being a customer. Let me check the status of your order.",0
+0f9267b7-4425-4322-b34d-02f93b974850,439,3,0,0,0,"Have a great day, thank you for being a customer. Thank you for calling support, how can I help you?",0
+5f09a2f7-0e84-4098-9610-c3cd389ab25a,516,3,1,0,0,"Have a great day, thank you for being a customer.",1
+172bb5f5-d019-4ead-9dde-40251afbd827,299,3,0,0,0,"Thank you for calling support, how can I help you? Have a great day, thank you for being a customer.",0
+98794971-5bac-41d4-9a8d-ee0fa3f47a32,491,4,0,0,0,"Could you please verify your account number? Thank you for calling support, how can I help you? Have a great day, thank you for being a customer.",0
+45e0d3c5-a293-4162-9781-ee416f334c89,475,2,0,0,0,"Have a great day, thank you for being a customer.",0
+1b1031d1-a8dc-4ade-bfd2-156b289f9246,308,2,0,0,0,Could you please verify your account number?,0
+d9caa9f9-3ee8-4ff9-ae39-002881fb9821,315,1,0,0,0,Could you please verify your account number?,0
+3a542ac8-74f6-4bcf-8d5b-ea01d13a7455,327,2,0,0,0,"Let me check the status of your order. Could you please verify your account number? Have a great day, thank you for being a customer.",0
+c1cbe3d1-c07d-4e10-b867-c8fc6419d05d,264,2,0,0,0,Let me check the status of your order.,0
+7812641b-970b-4617-96c8-51387570af70,253,1,0,0,0,"Let me check the status of your order. Have a great day, thank you for being a customer. I have processed your request, is there anything else?",0
+9ed1e86e-d844-4428-81c6-9b64239e1a10,479,1,0,0,0,"I have processed your request, is there anything else? Could you please verify your account number? Thank you for calling support, how can I help you?",0
+edb799d9-5401-48e8-bf0e-6edf8aa35e25,660,4,0,0,0,Let me check the status of your order.,0
+d2b6fad3-ea4c-4901-8215-2d423d267503,252,5,0,0,0,"Could you please verify your account number? Thank you for calling support, how can I help you?",0
+5ff6b7d1-d8a8-4475-ae04-5bea3cf262f2,388,4,0,0,0,Let me check the status of your order.,0
+d244869f-be61-4deb-82ad-ede9ef2079b3,459,5,0,0,0,"I have processed your request, is there anything else? Have a great day, thank you for being a customer.",0
+0feaddb8-a801-43ff-badb-123693a850da,347,2,0,0,0,"I have processed your request, is there anything else?",0
+076625a5-b523-4720-877c-87ab4c1bc902,391,4,0,0,0,"I have processed your request, is there anything else? Have a great day, thank you for being a customer.",0
+fa118122-8ae8-4701-9b76-6b75fd378ba7,113,2,0,0,0,"Have a great day, thank you for being a customer.",0
+0afdb3f8-669e-4c6b-b9a8-ff9467c4009c,230,3,0,0,0,"Let me check the status of your order. Could you please verify your account number? I have processed your request, is there anything else?",0
+94f87b90-1070-4b4c-925e-35a09b485106,383,2,0,0,1,"Let me check the status of your order. Have a great day, thank you for being a customer. You should stop taking that medication immediately.",1
+eb42e1d5-4866-4584-85d6-50101d4b0a7c,493,4,0,0,0,Let me check the status of your order.,0
+7863df49-871f-4b01-b430-a97844f824cb,348,5,0,0,0,"Could you please verify your account number? I have processed your request, is there anything else? Have a great day, thank you for being a customer.",0
+7fc126f4-91ec-4ce7-bbd4-68ff44e3c913,212,4,0,0,0,"Let me check the status of your order. Have a great day, thank you for being a customer.",0
+e53216eb-89d4-4060-b848-966a722cfaad,317,2,1,0,0,"I have processed your request, is there anything else? Could you please verify your account number?",1
+1d67d091-0b56-417a-a0a1-5b1e0c41eed5,196,1,0,0,0,Let me check the status of your order.,0
+ae2c7dcb-abc1-463f-8d89-414e9b2104bc,603,5,0,0,0,"Thank you for calling support, how can I help you? Have a great day, thank you for being a customer.",0
+c2cff22a-75f6-47e7-8118-5064fb772278,477,1,0,0,0,"Have a great day, thank you for being a customer. Could you please verify your account number? Let me check the status of your order.",0
+10039438-9088-4a83-998d-6099f44ca2d6,209,4,0,0,0,"Have a great day, thank you for being a customer. Thank you for calling support, how can I help you?",0
+8857af29-7c69-4d82-839b-7afbbda73f0e,546,4,0,0,0,"Could you please verify your account number? I have processed your request, is there anything else? Have a great day, thank you for being a customer.",0
+c5f782f6-3294-4a67-9bdd-a7916933761d,443,3,0,0,0,"I have processed your request, is there anything else? Have a great day, thank you for being a customer. Thank you for calling support, how can I help you?",0
+2d1c0f08-bb11-4398-8dac-eda667324822,491,5,0,0,0,Could you please verify your account number?,0
+c35fcfa9-0f4b-424e-b869-0c1deb0bc2e3,284,4,0,0,0,Let me check the status of your order. Could you please verify your account number?,0
+45e484b8-654d-4b96-b839-dfdb7a623d4c,371,2,0,0,0,"Could you please verify your account number? Have a great day, thank you for being a customer. I have processed your request, is there anything else?",0
+827c57d5-2380-43c3-b406-11b5556cd807,302,3,0,0,0,"Thank you for calling support, how can I help you? Let me check the status of your order.",0
+0bfdb8fd-8cc7-48c1-8303-f29f138a6407,407,3,0,0,0,"I have processed your request, is there anything else? Have a great day, thank you for being a customer. Could you please verify your account number?",0
+31fd8c9c-dfe5-4d0e-8133-4d013e74e70c,20,0,0,0,0,"Have a great day, thank you for being a customer. I have processed your request, is there anything else? Could you please verify your account number?",1
+b1ecde35-dc40-4e6e-8a0e-f2718fdac208,433,2,0,0,0,"I have processed your request, is there anything else? Could you please verify your account number?",0
+81dc6fcb-9182-413f-afdd-3780f30d1605,126,5,0,0,0,"Have a great day, thank you for being a customer.",0
+4ebfcd7d-1fe0-47ec-bd37-fd9cd4f5b76a,309,2,0,0,0,"Have a great day, thank you for being a customer.",0
+b8002afd-dcc7-44d6-9ce5-6a638a0e26d4,731,5,0,0,0,"Let me check the status of your order. Thank you for calling support, how can I help you? Could you please verify your account number?",0
+081f4ae7-56a5-4b4e-90c0-68d113717b8a,472,1,0,0,0,"Thank you for calling support, how can I help you? Have a great day, thank you for being a customer. Could you please verify your account number?",0
+0a93800d-87f2-4bfd-a695-8d3a1badfd8f,364,4,0,0,0,"Let me check the status of your order. Thank you for calling support, how can I help you?",0
+efe1fbc2-1193-4deb-a3ad-7b24a9d1b2c9,383,5,0,0,0,"Could you please verify your account number? Thank you for calling support, how can I help you? I have processed your request, is there anything else?",0
+5f46d7eb-db3f-4900-80d7-26f1b9029715,511,5,0,0,0,Could you please verify your account number?,0
+c3192cc5-2954-458a-9144-494a24974ee7,630,1,0,0,0,"Have a great day, thank you for being a customer.",0
+a22ee9df-bcff-4511-9468-1e5d63861c7b,309,2,0,0,0,Let me check the status of your order.,0
+bc5c96fc-0307-4dee-9b73-73e60cd147ca,559,2,0,0,0,"Thank you for calling support, how can I help you?",0
+2ff5cfd0-9fde-4631-8471-df6f1a517539,413,5,0,0,0,"Have a great day, thank you for being a customer. Thank you for calling support, how can I help you?",0
+6cd0bbc2-b16d-4ca3-a7f0-d8edf6e38baa,330,1,0,0,0,Let me check the status of your order.,0
+2c946c6e-17a6-4d2a-8a0b-cecf18433fb0,378,1,0,0,0,"Have a great day, thank you for being a customer.",0
+9f172acc-4fa4-4157-bb8a-97091c3d0544,539,1,0,0,0,"Thank you for calling support, how can I help you?",0
+24ef2442-a1e7-4415-836a-f78e80c6aa53,214,4,0,0,0,"This is ridiculous, I want to speak to a manager now! I have processed your request, is there anything else?",1
+79acd2ce-fa1f-4dc9-9ea1-cf521e7e4008,310,5,0,0,0,"Thank you for calling support, how can I help you? Let me check the status of your order. I have processed your request, is there anything else?",0
+727671c7-97c1-46f4-8616-43ed38834b96,535,2,0,0,0,Let me check the status of your order.,0
+62fd29f9-e52f-4ee8-8bc5-e7b0761e2df9,509,3,0,0,0,"Thank you for calling support, how can I help you?",0
+941d8405-b502-4e3f-a01b-5fe2bafad79d,453,4,0,1,0,"Let me check the status of your order. Sorry, I think I dialed the wrong number.",1
+b0a0beb0-ba29-45ce-a895-18077e0627d7,471,3,0,0,0,"Let me check the status of your order. Thank you for calling support, how can I help you?",0
+1db08a39-0029-4bb7-8520-137a9d250af1,353,5,0,0,0,"I have processed your request, is there anything else?",0
+1638fc98-5737-4502-ba34-47e4f110ff1e,538,5,0,0,0,"Have a great day, thank you for being a customer. I have processed your request, is there anything else? Let me check the status of your order.",0
+3764d2cd-1f47-4ad0-af2a-f6b75c2d131f,411,2,0,0,0,"Let me check the status of your order. Could you please verify your account number? Have a great day, thank you for being a customer.",0
+1e75feb8-11e5-4f97-9de2-e291079a8f1b,470,5,0,0,0,Could you please verify your account number?,0
+368e7491-c89f-42cc-837f-9166743c9f09,246,3,0,0,0,"Have a great day, thank you for being a customer.",0
+29b48d6d-7e32-4812-b00d-038edcd6c64d,590,4,0,0,0,Let me check the status of your order.,0
+a21aa474-4286-4814-b111-f69888f6a3a5,389,1,0,0,0,"I have processed your request, is there anything else?",0
+6b94bae9-b02b-4717-a0ad-32eecf11d030,105,1,0,0,0,Could you please verify your account number?,0
+bc381620-4d3f-46a3-ae3c-35861c4bffaf,215,5,0,0,0,"Thank you for calling support, how can I help you? I have processed your request, is there anything else?",0
+21fbfcda-e0b3-4ba0-81b4-e06d92b5e01e,451,5,0,0,0,"Thank you for calling support, how can I help you? Have a great day, thank you for being a customer.",0
+e55709b0-9a31-4280-a1ed-761d63cc7d89,527,2,0,0,0,"Could you please verify your account number? I have processed your request, is there anything else? Thank you for calling support, how can I help you?",0
+61f3b23f-77b2-47f8-98b4-903c1c4cc083,511,1,0,0,0,"Could you please verify your account number? Have a great day, thank you for being a customer. I have processed your request, is there anything else?",0
+84e1dd5c-767f-4bd5-92b1-0dd9e6571ff9,330,4,0,0,0,"Have a great day, thank you for being a customer.",0
+3967cd38-753f-41a2-b1a2-463e170959f0,417,5,0,0,0,"Have a great day, thank you for being a customer.",0
+1eafd841-e0f7-40ee-9ea5-db3f1c166ab0,463,2,0,0,0,Let me check the status of your order.,0
+390494e6-c7c8-4d0d-b88b-bb15dd66d8e8,400,4,0,0,0,"I have processed your request, is there anything else? Thank you for calling support, how can I help you?",0
+b0451bef-562c-428e-91ba-3b266379b32f,353,1,0,0,0,"Have a great day, thank you for being a customer. Let me check the status of your order.",0
+2d447a6b-1bb0-4038-80f0-de1a579892bb,570,2,0,0,0,"I have processed your request, is there anything else?",0
+3460bcef-d9d2-4858-8052-d5cf4c8e237f,212,1,0,0,0,Let me check the status of your order.,0
+60f52456-7c8e-44fa-a391-248931b1a83d,418,4,0,0,0,Could you please verify your account number? Let me check the status of your order.,0
+ce5fce11-779a-4ffb-8bd0-fbf0a1ec90c8,388,5,0,0,0,"Could you please verify your account number? Have a great day, thank you for being a customer.",0
+be6d09ab-1e0c-42a9-a88b-306d53e21184,326,3,0,0,0,"Have a great day, thank you for being a customer. Could you please verify your account number? You guys are completely useless.",1
+a3ef7bb7-3867-4844-8bd5-516b8cb75490,322,2,0,0,0,"Could you please verify your account number? I have processed your request, is there anything else? Let me check the status of your order.",0
+1f25a952-d509-4f88-8ad2-3ff746db028e,134,3,0,0,0,"I have processed your request, is there anything else? Have a great day, thank you for being a customer.",0
+09ad10e8-c02b-4b78-802a-f535d0e84610,644,3,0,0,0,"Could you please verify your account number? Have a great day, thank you for being a customer. Thank you for calling support, how can I help you?",0
+dab6076e-9934-436d-8ca3-63a7416ecc89,427,3,0,0,0,"Thank you for calling support, how can I help you? Have a great day, thank you for being a customer.",0
+80cfec8c-f1cb-46f6-a03e-fcf1819ed026,203,5,0,0,0,"I have processed your request, is there anything else? Thank you for calling support, how can I help you? Have a great day, thank you for being a customer.",0
+6a626026-6c91-4b3c-a310-7c8f72838e8e,565,2,0,0,0,"Have a great day, thank you for being a customer.",0
+7f6675cf-54b0-48e4-81ba-7e538675062e,422,2,0,0,0,"I have processed your request, is there anything else?",0
+01b66890-7e81-4092-b5f3-cde1e97f646c,253,2,0,0,0,"Thank you for calling support, how can I help you? I have processed your request, is there anything else? Have a great day, thank you for being a customer.",0
+880fe14c-7175-424f-a1c2-613311406c38,660,3,0,0,0,"Could you please verify your account number? I have processed your request, is there anything else? Let me check the status of your order.",0
+bef304e1-84cc-4498-9e8d-0cd4701d1f62,55,1,0,0,0,"Could you please verify your account number? Let me check the status of your order. Have a great day, thank you for being a customer.",0
+dd7e05a9-221d-461c-b7fa-a6d6dcc54c08,483,1,0,0,0,"Thank you for calling support, how can I help you? Let me check the status of your order.",0
+bb001ad2-e8a2-48eb-9eb0-ba325fb6390a,504,2,0,0,0,"Thank you for calling support, how can I help you?",0
+5a2fe62f-34bc-4a42-ae3c-256db7e34028,96,4,0,0,0,"Let me check the status of your order. Have a great day, thank you for being a customer.",0
+cdbaff51-9b71-460f-a267-272ec8b431f3,436,1,0,0,0,"I have processed your request, is there anything else? Have a great day, thank you for being a customer. Could you please verify your account number?",0
+dd3fd09b-987e-488c-b29e-2f5789363bf7,546,1,0,0,0,"Let me check the status of your order. Thank you for calling support, how can I help you? Could you please verify your account number?",0
+c92ebe36-0ef1-46c7-81b2-7b3610eb8129,606,5,0,0,0,"Could you please verify your account number? I have processed your request, is there anything else?",0
+86c3eaae-541b-4237-b8fe-929c1c972b2a,341,4,0,0,0,"Thank you for calling support, how can I help you? I have processed your request, is there anything else?",0
+ab31530b-5271-4422-bbf6-81c0be5de6cb,320,1,0,0,0,"Thank you for calling support, how can I help you? Let me check the status of your order.",0
+b7ebdec2-1158-4c22-ba78-0b024c1a2a1a,530,2,0,0,0,Could you please verify your account number?,0
+61bf84bd-7a18-4d79-84c2-4a84330f625d,364,1,0,0,0,"Have a great day, thank you for being a customer.",0
+ad1d7f37-1ca7-43ac-9c45-15ab5ed3ae8e,30,1,0,0,0,"Have a great day, thank you for being a customer. Thank you for calling support, how can I help you? Could you please verify your account number?",0
+78dc0569-619b-4b04-a795-1dc978b32827,558,3,0,0,0,Let me check the status of your order. Could you please verify your account number?,0
+26d8ed06-1d95-4b0f-9042-7439c22615df,466,2,0,0,0,"Have a great day, thank you for being a customer.",0
+3cb9be01-1c29-482b-b2c2-1fa5f41a4b44,374,3,0,0,0,Could you please verify your account number? Let me check the status of your order.,0
+086c1117-7f49-4f3a-8cbc-4666d0204438,433,1,0,0,0,Could you please verify your account number?,0
+d43e2948-4ef2-4a3f-bc34-27f40a373a5e,177,2,0,0,0,"I have processed your request, is there anything else? Could you please verify your account number? Thank you for calling support, how can I help you?",0
+169bbd72-be43-4747-9759-447ffd667f2b,576,3,0,0,0,Let me check the status of your order.,0
+31215f63-4a59-4888-be1f-219427c85705,306,2,0,0,0,"Thank you for calling support, how can I help you? Let me check the status of your order. I have processed your request, is there anything else?",0
+26ec431d-4f70-4afa-a720-9968a7a01e6d,266,1,0,1,0,"Let me check the status of your order. Sorry, I think I dialed the wrong number. I have processed your request, is there anything else?",1
+41951fe0-db53-4312-88d3-0cab38cb310b,255,1,0,0,0,"I have processed your request, is there anything else? Could you please verify your account number?",0
+30bdc413-a28b-4202-9755-a4be55f2d558,337,3,0,0,0,"I have processed your request, is there anything else? Let me check the status of your order. Thank you for calling support, how can I help you?",0
+e0eab1bf-1a8d-491e-8631-0ffed442b8e2,629,3,0,0,0,"Have a great day, thank you for being a customer.",0
+c6eff715-8139-4034-972f-c132ff56cb53,564,3,0,0,0,"Could you please verify your account number? I have processed your request, is there anything else? Thank you for calling support, how can I help you?",0
+6cc0092c-6735-4c43-9835-b56848640782,86,5,0,0,0,"Could you please verify your account number? Have a great day, thank you for being a customer. Let me check the status of your order.",0
+7b60654d-a9ed-41b3-b10d-dbf6dc6152e3,321,2,0,0,0,Could you please verify your account number?,0
+03454f33-388d-4c0b-8ebe-29d0213f760a,447,3,0,0,0,"Have a great day, thank you for being a customer.",0
+aaeae7cc-f331-4726-94cb-b0786ee3bc9e,419,2,0,0,0,"I have processed your request, is there anything else? Thank you for calling support, how can I help you?",0
+34d47ba4-550d-494b-8953-ce86a8374de3,407,1,0,0,0,"I have processed your request, is there anything else? Thank you for calling support, how can I help you?",0
+4c31860b-72ed-4663-bafd-6e62991b8387,547,3,0,1,0,"Let me check the status of your order. Sorry, I think I dialed the wrong number. Thank you for calling support, how can I help you?",1
+7ce5f1c6-8429-4da0-94de-61840079f072,551,2,0,0,0,"Have a great day, thank you for being a customer. Let me check the status of your order.",0
+469ecc13-bcbe-4020-9b05-299f5a7ad54e,570,1,0,0,0,"Have a great day, thank you for being a customer. Let me check the status of your order. Could you please verify your account number?",0
+65433b8f-5c3a-4144-a659-157f25e9bd24,274,1,0,0,0,"Thank you for calling support, how can I help you?",0
+3eb8e9be-517f-4aed-b9c2-5fad19e7b5ea,583,4,0,0,0,Let me check the status of your order. Could you please verify your account number?,0
+9961501b-947a-463c-9b57-23fcdd433741,65,1,0,0,0,"I have processed your request, is there anything else? Could you please verify your account number? Have a great day, thank you for being a customer.",0
+48ab5752-7910-4a9f-b981-16f878e5d8eb,420,4,0,0,0,"Thank you for calling support, how can I help you? Let me check the status of your order.",0
+1860df9b-ef9d-4e33-b02b-2f1eb1b08a3d,381,4,0,0,0,"Have a great day, thank you for being a customer.",0
+fd5905e1-6af4-464f-841a-5917e9f1b8e3,490,2,0,0,0,"Could you please verify your account number? Thank you for calling support, how can I help you?",0
+6feebe01-65eb-44a9-ab7c-881d978240ec,316,2,0,0,0,"Have a great day, thank you for being a customer.",0
+2f28bf5f-294b-472d-8f10-de49c9c933f8,427,2,0,0,0,"Have a great day, thank you for being a customer.",0
+551eb62e-a2a0-4d0e-b0dd-7750d086cea5,235,4,0,0,0,"Have a great day, thank you for being a customer. Let me check the status of your order.",0
+fd406082-34e5-4601-9a86-9095d684e4dd,400,5,0,0,0,"I have processed your request, is there anything else? Thank you for calling support, how can I help you? Let me check the status of your order.",0
+233a1384-da36-478e-8871-abbca261dd7a,385,4,0,0,0,Could you please verify your account number?,0
+0a9c2561-72ee-4626-a528-b75688cf4fc9,357,1,0,0,0,Could you please verify your account number?,0
+e1af2465-25f8-4df2-a1e3-295325dcf842,328,2,0,0,0,"I have processed your request, is there anything else? Let me check the status of your order. Could you please verify your account number?",0
+fcdee13a-37d1-4f0b-9de5-c2c9844f3d05,447,5,1,0,0,"Thank you for calling support, how can I help you? Have a great day, thank you for being a customer. Let me check the status of your order.",1
+bd1e3c69-e142-43ee-a370-a2fdff7776fd,272,3,0,0,0,Could you please verify your account number?,0
+51658ca9-bb39-4c39-9fbf-8b79dc48aa26,511,3,0,0,0,Could you please verify your account number?,0
+d804ce4e-e142-443b-8d69-1fea8172648f,66,2,0,0,0,Could you please verify your account number?,0
+f7b2374a-80c8-4c48-aa6b-86e33c0d6dcd,220,5,0,0,0,Could you please verify your account number?,0
+ce3e38d2-b79e-4a22-ac0a-e5d23cb9c26f,487,2,0,0,0,"Let me check the status of your order. I have processed your request, is there anything else? Have a great day, thank you for being a customer.",0
+8a0bab6e-6b2d-4b52-bfba-5daa20d2f33d,377,4,0,0,0,"Let me check the status of your order. Have a great day, thank you for being a customer. Could you please verify your account number?",0
+ffeb5fa3-e61c-4107-bb10-8d1004258270,502,4,0,0,0,"I have processed your request, is there anything else?",0
+6a1f1092-8b03-420e-84b0-164110ca7d88,542,3,0,0,0,"Thank you for calling support, how can I help you? Let me check the status of your order. I have processed your request, is there anything else?",0
+cdbd114e-435a-4063-9d01-f6ae34d8fbe4,243,4,0,0,0,Could you please verify your account number?,0
+f133d12d-2e1c-4191-8ed1-87a581e4f098,392,2,0,0,0,Let me check the status of your order.,0
+cd85f72c-609e-4ed8-951e-033c65b31143,389,1,0,0,0,"Thank you for calling support, how can I help you?",0
+5729487a-c3d0-40cd-8aff-fdf634f56b7d,211,4,0,0,0,Let me check the status of your order.,0
+6226ebea-e49c-426a-8754-ba3c0fa0f18c,486,5,0,0,0,"Have a great day, thank you for being a customer. I have processed your request, is there anything else? Thank you for calling support, how can I help you?",0
+8c49bbe5-d05c-457e-a86f-945d8ad74751,625,4,0,0,0,"Let me check the status of your order. Have a great day, thank you for being a customer.",0
+06d1dc9d-68d7-4336-bf65-ce3217c6d959,459,4,0,0,0,"I have processed your request, is there anything else? Thank you for calling support, how can I help you? Have a great day, thank you for being a customer.",0
+19382521-99ee-45e1-816c-78bd277d91fe,628,3,0,0,1,"Let me check the status of your order. Could you please verify your account number? Based on your symptoms, it sounds like diabetes. I have processed your request, is there anything else?",1
+30dde6b0-a0f9-4ad7-a8fc-4d42d231d6f0,378,3,0,0,0,"Have a great day, thank you for being a customer. Could you please verify your account number? Thank you for calling support, how can I help you?",0
+02b7f1bc-9c48-47a5-a271-18ad081ab236,367,3,0,0,0,"Have a great day, thank you for being a customer. Thank you for calling support, how can I help you?",0
+1ba1cf4e-7529-46b9-812c-9d89d1c1365f,158,1,0,0,0,"Could you please verify your account number? Thank you for calling support, how can I help you?",0
+6c079249-e0e9-4881-97bc-70debbdc660b,452,3,0,0,0,"Have a great day, thank you for being a customer. Let me check the status of your order.",0
+9059527e-9d42-45a0-9205-70ce975b2e5a,322,2,0,0,0,"Thank you for calling support, how can I help you?",0
+c0d2ffd8-7453-4f3f-8042-9e6659c5b767,503,5,0,0,0,"Could you please verify your account number? Let me check the status of your order. Have a great day, thank you for being a customer.",0
+d1bc5e30-66d8-4d02-a238-72604fb761c5,400,3,0,0,0,"Have a great day, thank you for being a customer. Thank you for calling support, how can I help you?",0
+546efb74-c846-4ab1-a094-779352a4c727,513,1,0,0,0,"Let me check the status of your order. Could you please verify your account number? Have a great day, thank you for being a customer.",0
+d1731507-c581-4201-9b11-f9786eae25f2,483,5,0,0,0,"Thank you for calling support, how can I help you? I have processed your request, is there anything else?",0
+a68fc3ed-edab-430f-aec3-f1610f8917ed,405,1,0,0,0,"Have a great day, thank you for being a customer. Let me check the status of your order.",0
+9e7e36de-51b0-4646-918d-01866665b2c7,250,4,0,0,0,"I have processed your request, is there anything else?",0
+63b06c51-3c09-444f-afc3-eab15121d948,304,3,0,0,0,"I have processed your request, is there anything else? Could you please verify your account number?",0
+2e429da2-a833-47f0-97ed-da4359bd5e21,722,3,0,0,0,"Have a great day, thank you for being a customer. Could you please verify your account number? Thank you for calling support, how can I help you?",0
+f06b108b-be2b-441b-bb1b-d8b1a653a9ef,476,4,0,0,0,Let me check the status of your order.,0
+bf2612fc-778e-4386-94a7-a72d8564e5fd,396,1,0,0,0,"Have a great day, thank you for being a customer. Let me check the status of your order. Could you please verify your account number?",0
+4ed4a427-fda4-4b0a-8637-a9993979b6dc,403,4,0,0,0,"Could you please verify your account number? I have processed your request, is there anything else?",0
+15c3ee6f-95a7-44ac-b0c1-5195d5f99d3e,167,3,0,0,0,Let me check the status of your order. Could you please verify your account number?,0
+8af9683c-a0cf-470c-8166-23c95d334e78,312,5,0,0,0,Let me check the status of your order.,0
+ab099dbd-f3a7-492a-9aed-6ad6b4d73f3c,392,1,0,0,0,"I have processed your request, is there anything else?",0
+491c7c1d-d5ba-4b39-84d7-46699e7cb7be,440,1,0,0,0,"I have processed your request, is there anything else? Let me check the status of your order. Have a great day, thank you for being a customer.",0
+84bf9df4-0194-4ee5-bd90-f5e6f21e4fe2,288,3,0,0,0,Let me check the status of your order.,0
+05280284-59c2-4d5c-b78d-5da701f3e472,249,2,0,0,0,"Could you please verify your account number? Have a great day, thank you for being a customer. Thank you for calling support, how can I help you?",0
+a89960cc-b91d-4f8b-86fd-d03e5054aa0a,30,3,0,0,0,"Have a great day, thank you for being a customer. Thank you for calling support, how can I help you? I have processed your request, is there anything else?",0
+ec9773ee-62e5-42cf-98b3-cf42b28a607a,216,5,0,0,0,"Thank you for calling support, how can I help you? Have a great day, thank you for being a customer.",0
+759c0698-e515-4908-b08a-0147c6ddaf97,370,5,0,0,0,Could you please verify your account number?,0
+e6556720-7fc4-4ef7-9cd2-8d0ec438dbba,321,5,0,0,0,"Have a great day, thank you for being a customer. I have processed your request, is there anything else?",0
+4bce7c9f-3eb8-473a-89e7-4470446b0303,568,2,0,0,0,"Have a great day, thank you for being a customer. Could you please verify your account number? Let me check the status of your order.",0
+66a6c6c9-746d-4195-963e-05659b51e73e,168,1,0,0,0,"Let me check the status of your order. Have a great day, thank you for being a customer. I have processed your request, is there anything else?",0
+77254cad-2d56-402f-b513-2fda8ff5e2f8,554,1,0,0,0,"Thank you for calling support, how can I help you? Let me check the status of your order. Have a great day, thank you for being a customer.",0
+b941318c-2a76-4b3d-9847-93add66d2f88,297,4,0,0,0,Could you please verify your account number? Let me check the status of your order.,0
+29946700-7539-4cef-bf22-9da729171647,8,0,0,0,0,"I have processed your request, is there anything else?",1
+58722b1f-eafc-4322-a322-6ce1d99afee7,331,5,1,0,0,"Let me check the status of your order. I have processed your request, is there anything else? Thank you for calling support, how can I help you?",1
+50fbb3e8-bb8b-480c-91ff-33e016f24b9a,284,5,1,0,0,"I have processed your request, is there anything else? Thank you for calling support, how can I help you? Could you please verify your account number?",1
+6fa5889a-2801-4f87-841e-76ee238eba06,524,4,0,0,0,"Thank you for calling support, how can I help you?",0
+7d3c1572-db0b-4f1d-9ac4-d1bcbc413a66,30,3,1,0,0,"Could you please verify your account number? Have a great day, thank you for being a customer. I have processed your request, is there anything else?",1
+f3421b84-94ba-478f-bba7-4bdb5fccb109,539,5,0,0,0,Let me check the status of your order.,0
+04c6af7b-d419-4f44-91dc-6e8e83ccaa5d,339,1,0,0,0,"Could you please verify your account number? I have processed your request, is there anything else? Thank you for calling support, how can I help you?",0
+618dda21-fc51-47bb-a9e3-650aceb3e655,646,2,0,0,0,"Let me check the status of your order. Could you please verify your account number? Have a great day, thank you for being a customer.",0
+06cca291-d9cf-435c-b5b0-df261004eb7d,375,5,0,0,0,Could you please verify your account number?,0
+984939e1-8d47-46b0-9066-17e3b38ddae8,549,3,0,0,0,"Thank you for calling support, how can I help you? Let me check the status of your order. Could you please verify your account number?",0
+66cce080-60c9-4196-835d-04499c2109fc,456,4,0,0,0,"Thank you for calling support, how can I help you? Have a great day, thank you for being a customer.",0
+ade4f8de-ab31-4372-9fa7-68a31a142e60,227,1,0,0,0,"Thank you for calling support, how can I help you? Let me check the status of your order.",0
+96be7ab2-cc8d-4d8e-b1da-9b53ccbe16ab,500,5,0,0,0,"Let me check the status of your order. I have processed your request, is there anything else? Could you please verify your account number?",0
+375a4a8c-9712-422c-8e2f-0c6194891fbc,510,2,0,0,0,"Let me check the status of your order. Thank you for calling support, how can I help you?",0
+a1316b00-ef3c-45ba-8a8e-ce886aace342,558,5,0,0,1,Could you please verify your account number? I recommend taking ibuprofen for the pain. Let me check the status of your order.,1
+956ae50d-71e9-4992-9947-d09e030a8621,377,1,0,0,0,"I have processed your request, is there anything else? Thank you for calling support, how can I help you?",0
+67866607-7663-44f1-b911-7ab77e28b28b,595,4,0,0,0,"Thank you for calling support, how can I help you? Could you please verify your account number?",0
+16e3023f-f9fc-4a77-b81a-2fc116374dbc,626,2,0,0,0,"Let me check the status of your order. I have processed your request, is there anything else? Thank you for calling support, how can I help you?",0
+2e8baee6-094c-488c-a2e4-47782577314c,579,5,0,0,0,"Thank you for calling support, how can I help you?",0
+34e1643b-c24c-4a11-8f30-f056d6205052,206,1,0,0,0,"I have processed your request, is there anything else?",0
+32d3def1-b203-4b16-84d9-88d9c056b655,522,4,0,0,0,"Have a great day, thank you for being a customer. Let me check the status of your order. This is ridiculous, I want to speak to a manager now!",1
+d7edf350-0bb3-4e3d-809f-ce80f391a612,220,2,0,0,0,"Thank you for calling support, how can I help you?",0
+35ee0b8e-5fc1-482d-982f-45506d28693c,290,1,0,0,0,"Have a great day, thank you for being a customer. Could you please verify your account number? Let me check the status of your order.",0
+b561c7d1-8dc3-4634-86cb-3c663686aa7a,348,5,0,0,0,"I have processed your request, is there anything else? Let me check the status of your order. Could you please verify your account number?",0
+68ee50f1-b1ab-4ec0-acf2-5ddbf59f0bcd,664,4,0,0,0,"I have processed your request, is there anything else?",0
+cb759a01-ab05-4bac-a3f5-bce474187c69,67,1,0,0,0,"Let me check the status of your order. I have processed your request, is there anything else? Could you please verify your account number?",0
+123ee712-22a5-44ac-9aba-10d20fafb4f8,171,1,0,0,0,"Have a great day, thank you for being a customer. Could you please verify your account number? Let me check the status of your order.",0
+321e680e-44c2-428e-a116-435bcdb7708b,372,5,0,0,0,Let me check the status of your order.,0
+e9be08fb-8c75-4fc8-84a2-52b23ebd4911,464,3,0,0,0,Let me check the status of your order. Could you please verify your account number?,0
+2de07e17-3e19-42e6-bdb0-ffb96744da88,475,2,0,0,0,"Thank you for calling support, how can I help you? I have processed your request, is there anything else?",0
+4f72ff34-ea29-4c27-8008-5d39d317daf0,246,5,0,0,0,"I have processed your request, is there anything else? Have a great day, thank you for being a customer. Could you please verify your account number?",0
+0454728d-a1f0-4b30-9694-8a6557461b1d,190,2,0,0,0,"Could you please verify your account number? Let me check the status of your order. Have a great day, thank you for being a customer.",0
+1dcc9176-45de-492f-8e0d-770864c70c26,321,1,0,0,0,"I have processed your request, is there anything else? Have a great day, thank you for being a customer. Thank you for calling support, how can I help you?",0
+9e17b9c9-86b6-41d6-bbe1-34b9ab5d16c0,405,1,0,0,0,"I have processed your request, is there anything else? Thank you for calling support, how can I help you? Have a great day, thank you for being a customer.",0
+45ed1c0e-a917-41f9-a487-335034cb0092,202,3,0,0,0,"Have a great day, thank you for being a customer. I have processed your request, is there anything else?",0
+ccac9801-1de4-4a2f-ae7b-4c44580489ec,496,4,0,0,0,"I have processed your request, is there anything else? Could you please verify your account number? Thank you for calling support, how can I help you?",0
+da69604b-4d2f-41b2-89ae-aaa18dc0558a,617,4,0,0,0,Let me check the status of your order.,0
+e489c53b-9508-4732-b002-3f9e3b65c1e2,385,5,0,0,0,"Could you please verify your account number? Thank you for calling support, how can I help you? I have processed your request, is there anything else?",0
+84eba67c-30f7-4f56-9e9a-36cc1aec22d7,256,1,0,0,0,"Have a great day, thank you for being a customer. I have processed your request, is there anything else? Thank you for calling support, how can I help you?",0
+99002aca-d182-40fe-95c2-e905ecbdd8e4,630,3,0,0,0,Let me check the status of your order.,0
+4b146b55-002d-4b74-a4be-ecb3fa3a2ece,494,4,0,0,0,"Could you please verify your account number? I have processed your request, is there anything else? Have a great day, thank you for being a customer.",0
+eb419831-ef30-4b82-b8ed-f7846c96302a,231,4,0,0,0,"Could you please verify your account number? Thank you for calling support, how can I help you? Let me check the status of your order.",0
+a1fef0a6-f666-4a7f-8bc1-5d1f97aab41f,551,5,0,0,0,"Have a great day, thank you for being a customer. Could you please verify your account number? Let me check the status of your order.",0
+97836f8f-f48b-4d15-aed9-6357d47411df,411,5,0,0,0,"I have processed your request, is there anything else?",0
+c70e2540-8a84-4e9d-9a00-0e0952c9ed46,367,3,0,0,0,"Have a great day, thank you for being a customer. Could you please verify your account number? I have processed your request, is there anything else?",0
+c1ba6bdf-f43a-425b-be5d-08b1c88efbf6,581,1,0,0,0,"Have a great day, thank you for being a customer. I have processed your request, is there anything else? Thank you for calling support, how can I help you?",0
+9c97e7ca-2f1b-4d4b-8c93-eecf32202773,523,2,0,0,0,"I have processed your request, is there anything else?",0
+e494163d-d2c2-49c5-8040-615bfb324c21,8,0,0,0,0,"Let me check the status of your order. Have a great day, thank you for being a customer.",1
+22b929f0-9032-4696-925c-9a52bb7284fc,596,2,0,0,1,"Could you please verify your account number? Have a great day, thank you for being a customer. I have processed your request, is there anything else? I recommend taking ibuprofen for the pain.",1
+4b2f07ed-eeca-415b-b505-848b325817a8,70,4,0,0,0,Let me check the status of your order.,0
+f5be23b5-632a-4376-b265-79a8c4fcd885,77,1,0,0,0,"I have processed your request, is there anything else? Could you please verify your account number? Thank you for calling support, how can I help you?",0
+998e9e7c-f50e-404c-97c9-c4065aeb4db7,319,1,0,0,0,"Thank you for calling support, how can I help you?",0
+7d39d704-9cee-43ca-a0b9-7e89182d6fb4,394,3,0,0,0,"Let me check the status of your order. Have a great day, thank you for being a customer.",0
+64311533-795c-4622-a78f-9148b6b2e26f,258,2,0,0,0,"Thank you for calling support, how can I help you? Let me check the status of your order. Could you please verify your account number?",0
+15f3ab68-aaf7-4cdd-8b1b-1019b1f5fd69,657,5,0,0,0,Could you please verify your account number? Let me check the status of your order.,0
+bf83705c-1b3a-45a5-8ab3-9b8f900b8f11,456,2,0,0,0,Could you please verify your account number?,0
+f092569b-9293-4f8f-92f0-75ce81a76d77,431,5,0,0,0,"Could you please verify your account number? Have a great day, thank you for being a customer. Thank you for calling support, how can I help you?",0
+a09c74ef-ac08-4551-81b5-e506677bdb05,267,1,0,0,0,"Have a great day, thank you for being a customer. I have processed your request, is there anything else? Let me check the status of your order.",0
+a259f708-a066-4bc1-9b17-cacb507783b9,94,4,0,0,0,"Thank you for calling support, how can I help you?",0
+6f2c5105-4904-4c53-96c3-da8393140b5c,813,4,0,0,0,"Have a great day, thank you for being a customer. I have processed your request, is there anything else? Thank you for calling support, how can I help you?",0
+a3fb5f34-dc1f-400f-8dc6-73bb05edbc7a,249,5,0,0,0,"Have a great day, thank you for being a customer. Thank you for calling support, how can I help you?",0
+1df6592e-cf6a-47ae-9fd7-68c78f17c6b2,442,1,0,0,0,"Have a great day, thank you for being a customer. Could you please verify your account number? Thank you for calling support, how can I help you?",0
+78cfbe69-9faa-49d8-bf60-98e015a8b52e,12,0,0,0,0,Let me check the status of your order.,1
+4f57c4ec-0b81-4cf6-aae2-648b3861baa8,195,5,0,0,0,Let me check the status of your order.,0
+2e19064f-b7d0-42f3-a7e4-af56fbac7551,292,1,0,0,0,"Have a great day, thank you for being a customer.",0
+fa8238b5-3817-48a0-9296-984af9eef79e,357,1,0,0,0,Could you please verify your account number?,0
+d1166205-d716-4836-b045-027e279e6014,515,5,0,0,0,"Thank you for calling support, how can I help you? Have a great day, thank you for being a customer.",0
+cb589274-e06e-4fd2-b933-402b5f1432a5,540,4,0,0,0,"Let me check the status of your order. Thank you for calling support, how can I help you? I have processed your request, is there anything else?",0
+dac71fd8-deb6-428c-b648-b279b99eb460,423,4,0,0,0,"Let me check the status of your order. Could you please verify your account number? Have a great day, thank you for being a customer.",0
+7e810af5-ce3c-4e65-a73d-fee433955711,298,5,0,0,0,"Could you please verify your account number? Thank you for calling support, how can I help you?",0
+aa634bde-bfdb-413e-a7ae-4e62238c3f52,372,1,0,0,0,"Have a great day, thank you for being a customer. Let me check the status of your order. Thank you for calling support, how can I help you?",0
+3a56a3c6-8d99-498e-99c4-1948d0a1c11f,507,4,0,0,0,Could you please verify your account number?,0
+0b2eede7-7988-42e5-bd6b-cf7bf46d1ea0,653,3,0,0,0,"Could you please verify your account number? Thank you for calling support, how can I help you? Let me check the status of your order.",0
+9f1c7ef6-6a55-4fbd-8714-7913bb42652d,384,5,0,0,0,"Thank you for calling support, how can I help you?",0
+6643ef81-a1bb-424d-a63f-519ce791654d,200,5,0,0,0,"Have a great day, thank you for being a customer. Let me check the status of your order. Thank you for calling support, how can I help you?",0
+b9a99717-e080-465f-99b9-7314b706f4ae,352,1,0,0,0,"Thank you for calling support, how can I help you? I have processed your request, is there anything else?",0
+b5213d69-6215-44de-a44a-f751dc5f55ae,340,3,0,0,0,"Could you please verify your account number? Thank you for calling support, how can I help you? I have processed your request, is there anything else?",0
+cc8ececd-1c51-442e-ac7d-0eed2932151e,314,4,0,0,0,"Could you please verify your account number? Let me check the status of your order. I have processed your request, is there anything else?",0
+d3254ae5-4523-4a70-9b8d-fd3a3c90104f,279,2,0,0,0,"Thank you for calling support, how can I help you?",0
+499ffb01-e58b-4b7d-a5d9-405da3ea7240,313,2,0,0,0,"I have processed your request, is there anything else? Have a great day, thank you for being a customer.",0
+1b53fd5e-6a77-48d2-99d0-b5bd5d270fbf,260,2,0,0,0,"I have processed your request, is there anything else? Thank you for calling support, how can I help you?",0
+bb4d9c3f-6177-45b4-860e-1027fa6daa36,537,1,0,0,0,"Could you please verify your account number? I have processed your request, is there anything else? Have a great day, thank you for being a customer.",0
+4de49581-59c5-4c07-bd0f-83ce6625ead9,239,5,0,0,0,"Have a great day, thank you for being a customer. I have processed your request, is there anything else?",0
+d78d8d19-a063-4c38-b936-0d8eccf35968,263,4,0,0,0,"Have a great day, thank you for being a customer.",0
+c48db5ab-f807-4696-87ab-c87722117f8c,377,4,0,0,0,"Have a great day, thank you for being a customer. Thank you for calling support, how can I help you?",0
+27dc9338-57cb-476e-977c-63b46a19d422,782,1,0,0,0,"I have processed your request, is there anything else? Could you please verify your account number? Have a great day, thank you for being a customer.",0
+ab3d01fa-8f6f-41d8-92fd-75247f89185d,659,5,0,0,0,"Thank you for calling support, how can I help you? Have a great day, thank you for being a customer.",0
+41492dca-faf8-4c0b-a1ea-33c712d98537,286,1,0,0,0,"Thank you for calling support, how can I help you?",0
+03bca2f6-5954-499f-961f-697b62814e16,422,3,0,0,0,"Could you please verify your account number? Have a great day, thank you for being a customer. Let me check the status of your order.",0
+0059b667-a943-44dc-8ad8-03583ac6b8b1,342,2,0,0,0,"Let me check the status of your order. Thank you for calling support, how can I help you?",0
+bedf22a9-8e8d-400b-a1bb-6d800b547db2,513,2,0,0,0,"Have a great day, thank you for being a customer.",0
+73756f43-dbdb-4341-9b1f-793bb75827dc,457,3,0,0,0,"Have a great day, thank you for being a customer. Let me check the status of your order. I have processed your request, is there anything else?",0
+bd6e7a1b-5424-4cbe-8f3c-420b4887c736,370,1,0,0,0,"Thank you for calling support, how can I help you?",0
+5a1b0d32-1cbf-4835-90e0-b1124785f9a5,131,1,0,0,0,"I have processed your request, is there anything else? Let me check the status of your order. Thank you for calling support, how can I help you?",0
+687d38b0-89bc-49bd-99b1-e4ac2004519c,324,3,0,0,0,"I have processed your request, is there anything else? Thank you for calling support, how can I help you? Let me check the status of your order.",0
+94fadd7e-4e41-40ca-8c69-31f60b494249,327,2,0,0,0,"I have processed your request, is there anything else? Let me check the status of your order.",0
+0cc934f5-4aa3-43ae-a215-f9ad2c17bfa4,585,5,0,0,0,"Thank you for calling support, how can I help you? Let me check the status of your order. Have a great day, thank you for being a customer.",0
+3e0264a0-ddf6-4c7c-b323-0fb98a1a7600,310,5,1,0,0,"Thank you for calling support, how can I help you? Have a great day, thank you for being a customer. Could you please verify your account number?",1
+7ed38829-a630-472f-a4ff-9be6ad19f0a5,486,2,0,0,0,"I have processed your request, is there anything else?",0
+d251ce6d-a6e8-4a5b-9e80-2489c76377a0,87,2,0,0,0,Let me check the status of your order.,0
+8c08a0c9-1414-44b5-a3bd-8f7c53c64c66,693,5,0,1,0,"Sorry, I think I dialed the wrong number. I have processed your request, is there anything else? Let me check the status of your order. Thank you for calling support, how can I help you?",1
+1262dee8-0ec9-4599-bc94-e535334a07ef,353,1,0,0,0,Let me check the status of your order.,0
+125f78a8-fc90-4531-bdd8-760d916e0cb8,302,5,0,0,0,"Have a great day, thank you for being a customer. Thank you for calling support, how can I help you? I have processed your request, is there anything else?",0
+a1259a96-fee5-41b9-8149-0a4a6e226b23,537,2,0,0,0,"Have a great day, thank you for being a customer. Cancel my account right now!",1
+d9043a86-761e-47c2-b6ff-b6ee5ae4afce,330,1,0,0,0,"Have a great day, thank you for being a customer. Could you please verify your account number? Thank you for calling support, how can I help you?",0
+c5b41c75-b931-4fe0-ab3a-e79490fa0dc7,747,1,0,0,0,"Have a great day, thank you for being a customer.",0
+a41c4ffb-2ec5-4033-90bf-e2b8b2ee48cb,438,1,0,0,0,"Let me check the status of your order. Have a great day, thank you for being a customer.",0
+d21f5b9f-91a4-4963-a22a-90406d95550c,226,3,0,0,0,Let me check the status of your order.,0
+644de734-faaf-424d-8410-9873fbcbaa1f,401,4,0,0,0,Let me check the status of your order.,0
+a5299c9e-e3df-4412-af6e-59e7451e1bb3,561,1,0,0,1,Could you please verify your account number? I recommend taking ibuprofen for the pain.,1
+648c7555-e13c-4e61-9eb0-29c86392622c,384,2,0,0,0,"Thank you for calling support, how can I help you?",0
+717917fc-b4cb-4f78-8a33-e749794328e0,206,5,0,0,0,"I have processed your request, is there anything else? Could you please verify your account number?",0
+5f06cbb3-e9e1-4a69-9382-0ecfa66c7ebd,30,1,0,0,0,"I have processed your request, is there anything else?",0
+58221631-55f0-4d8f-81be-e27226f1c3eb,776,3,0,0,0,"Could you please verify your account number? Let me check the status of your order. Thank you for calling support, how can I help you?",0
+f2fe82fe-cd78-414c-b1a0-0f0e1908d496,174,1,0,0,0,"Could you please verify your account number? Thank you for calling support, how can I help you?",0
+5ca0f97d-edae-43dd-85ee-cccb30dd95ac,398,3,0,0,0,"Could you please verify your account number? Let me check the status of your order. Thank you for calling support, how can I help you?",0
+3f145fc8-752f-4f44-83ad-6cdb77429f31,323,4,0,0,0,"Have a great day, thank you for being a customer. Let me check the status of your order.",0
+9043a231-ad07-4de6-bd69-bd96f84188e8,308,5,0,0,0,Could you please verify your account number? Let me check the status of your order.,0
+c488d686-9f04-4e2a-874e-19f23094fbea,693,4,1,0,0,"Could you please verify your account number? Let me check the status of your order. Thank you for calling support, how can I help you?",1
+e73ec294-2a13-4976-b5e9-efdd066025e2,334,5,0,0,0,"Thank you for calling support, how can I help you? Could you please verify your account number?",0
+aab7a224-7341-4bc6-b142-87e286ed42c4,500,3,0,0,0,"Thank you for calling support, how can I help you?",0
+69be887e-52fd-4979-b8c4-12f490e5a6d2,502,2,0,0,0,Could you please verify your account number? Let me check the status of your order.,0
+e6537477-0076-4139-9d0c-5460882b259e,325,5,0,0,0,Let me check the status of your order.,0
+b625596b-262c-425d-8c69-6eb04dcc12a6,533,4,0,0,0,Let me check the status of your order.,0
+77e1ace4-089e-4671-a995-54c26a65be2d,468,5,0,0,0,"Could you please verify your account number? I have processed your request, is there anything else? Thank you for calling support, how can I help you?",0
+700d8a2c-b62b-4dfd-ba47-5be713e60fd0,532,1,0,0,0,Could you please verify your account number? Let me check the status of your order.,0
+8d956d63-2b34-42db-86a8-5533d363ef41,361,4,0,0,0,"Have a great day, thank you for being a customer. Let me check the status of your order.",0
+f816f7b8-072b-4340-9e1d-32f45c921aaa,216,5,0,0,0,"Could you please verify your account number? Let me check the status of your order. Have a great day, thank you for being a customer.",0
+75a3eba9-cf31-40dd-af69-89a1e841cb53,440,1,0,0,0,Let me check the status of your order.,0
+7a605327-38cb-493b-a920-fbc6e5be9127,272,4,0,0,0,"Have a great day, thank you for being a customer.",0
+cdbdc352-b0fd-45c8-8cd1-08ea92d46fab,216,3,0,0,0,"Thank you for calling support, how can I help you?",0
+b5afd589-01ad-4168-a4be-8e2c205674c6,261,1,0,0,0,"Let me check the status of your order. I have processed your request, is there anything else?",0
+a59bbbca-580e-4144-8eb8-d71908ad9d28,456,5,0,0,0,"I have processed your request, is there anything else?",0
+aa97efc9-eda2-45ab-993f-355d22914f4c,331,5,0,0,0,Could you please verify your account number? Let me check the status of your order.,0
+07f9292e-2ccb-489f-8aab-62dad4e364a1,419,2,0,0,0,"I have processed your request, is there anything else? Thank you for calling support, how can I help you? Let me check the status of your order.",0
+b9e4ae43-ee97-4e36-9195-ac5c32728357,453,2,0,0,0,"Could you please verify your account number? Let me check the status of your order. Thank you for calling support, how can I help you?",0
+b0e3801f-036c-45d7-b6be-ed8b7295a4d2,415,4,0,0,0,"Thank you for calling support, how can I help you?",0
+b44cfcb0-4dca-4c32-be49-528e5a967a8d,11,0,0,0,0,"Have a great day, thank you for being a customer.",1
+ff17d7fd-6b67-4196-85e0-f627c13a7d72,371,4,0,0,0,"Thank you for calling support, how can I help you? Have a great day, thank you for being a customer. I have processed your request, is there anything else?",0
+d9b8918c-a55e-4d4c-bfa6-f8a166a23d3e,489,3,0,0,0,"Thank you for calling support, how can I help you?",0
+998bb90e-d7a5-434c-9077-a64b7d0875cd,172,2,0,0,0,"Let me check the status of your order. Thank you for calling support, how can I help you?",0
+5506b6f2-9abe-444c-b83e-7c3a08f7d315,590,1,0,0,0,"Could you please verify your account number? I have processed your request, is there anything else?",0
+af4f80a5-53ec-4539-b2ea-ff29d505f23d,416,3,0,0,0,"Have a great day, thank you for being a customer. Could you please verify your account number? I have processed your request, is there anything else?",0
+70f18656-5ad8-4ec3-aee3-b2d20e2550f1,354,3,0,0,0,"Could you please verify your account number? I have processed your request, is there anything else?",0
+d989ed31-5070-4aa3-9fc8-c93e7ec63b7c,290,5,0,0,0,Let me check the status of your order.,0
+f7ab7dc9-f208-41b3-860c-37d577ca7aeb,473,2,0,0,0,Let me check the status of your order.,0
+a87df5b1-429a-4490-9390-08cbcb00843a,342,4,0,0,0,"Thank you for calling support, how can I help you? Have a great day, thank you for being a customer.",0
+dbfa8c8b-99d3-4b41-8124-a1d54d6f54b7,651,5,0,0,0,"Thank you for calling support, how can I help you?",0
+b059bd16-ae1b-43d5-8955-981588ae9de7,227,3,0,0,0,"This is ridiculous, I want to speak to a manager now! Thank you for calling support, how can I help you? Could you please verify your account number?",1
+c6856771-a171-4ba0-b4a6-a6ed3766aa5d,386,5,0,0,0,"Have a great day, thank you for being a customer. Thank you for calling support, how can I help you?",0
+ac729d38-a166-4a7e-b44b-2da27fae2849,205,4,0,0,0,"Have a great day, thank you for being a customer. I have processed your request, is there anything else?",0
+68e6409f-df69-4916-be78-a492311ade7b,429,5,0,0,0,"Thank you for calling support, how can I help you?",0
+dc79fe7c-6876-4365-bda7-7e0787858e19,485,3,0,0,0,"I have processed your request, is there anything else? Thank you for calling support, how can I help you?",0
+41654b05-fe7a-4c0b-8e52-46a332055d04,401,2,0,0,0,"Thank you for calling support, how can I help you? Have a great day, thank you for being a customer.",0
+61a39b4b-74f2-45eb-a1ad-24edae6d6ce3,334,3,0,0,0,Let me check the status of your order.,0
+2d6de40f-08e2-4e8c-9d6b-e401dde610ac,197,4,0,0,0,Could you please verify your account number? Let me check the status of your order.,0
+6ced81dc-bdac-4bae-9e1a-c225cf06ab29,193,2,0,0,0,"Thank you for calling support, how can I help you? Could you please verify your account number?",0
+683faefc-aa3d-4d7b-91b4-7c9149baad18,413,4,0,0,0,"I have processed your request, is there anything else? Could you please verify your account number? Thank you for calling support, how can I help you?",0
+8962d775-1658-4dec-b73a-a2fc60f0bb77,367,1,0,0,0,"Let me check the status of your order. Have a great day, thank you for being a customer. Thank you for calling support, how can I help you?",0
+4683a272-47cf-4cd9-8ec8-85461602c835,185,1,0,0,0,"Thank you for calling support, how can I help you? Could you please verify your account number? Let me check the status of your order.",0
+d7a4a663-5b32-4f97-8dec-b9f2d0c3a3ea,591,4,0,0,0,"Could you please verify your account number? I have processed your request, is there anything else?",0
+dd28fd06-692a-432e-ab1d-0f8c50c38b7a,153,5,0,0,0,"Let me check the status of your order. I have processed your request, is there anything else? Could you please verify your account number?",0
+f1c5d925-b3d6-43bd-8a61-002839633e50,178,4,0,0,0,"Could you please verify your account number? I have processed your request, is there anything else? Thank you for calling support, how can I help you?",0
+e62bd759-e3ba-4156-8e6c-21024535cfb3,383,1,0,0,0,"Thank you for calling support, how can I help you? Let me check the status of your order. Have a great day, thank you for being a customer.",0
+1c0968c8-aad8-4d45-99d8-f645c7ecb167,205,5,0,0,0,Let me check the status of your order.,0
+0988fd6d-e9f0-42f9-a97b-8f210973e57e,568,2,0,0,0,Could you please verify your account number?,0
+0d97ec33-be6a-4c4d-b0f9-a4d4ab7364ce,651,3,0,0,0,"I have processed your request, is there anything else?",0
+8d8efffd-3473-4af4-822d-4b97109ddf68,408,5,0,0,0,"Thank you for calling support, how can I help you? I have processed your request, is there anything else?",0
+8f90871f-e5ca-4328-bdcc-3d5df3096d8f,554,3,0,0,0,Could you please verify your account number?,0
+0c73bfa5-0298-46f4-8c70-75a054feecd1,461,4,0,0,0,"Could you please verify your account number? Thank you for calling support, how can I help you? Let me check the status of your order.",0
+a0744823-6cf0-428f-80a7-2a26f7f8d577,642,4,0,0,0,"Thank you for calling support, how can I help you? Could you please verify your account number?",0
+9ba5e2ed-77d7-4298-9a7b-3afe469369c7,512,5,0,0,0,"Could you please verify your account number? Have a great day, thank you for being a customer. Thank you for calling support, how can I help you?",0
+4e23471d-bcfc-4b8c-b7b5-02dbfd92b3df,349,5,0,0,0,"Have a great day, thank you for being a customer. Thank you for calling support, how can I help you? Could you please verify your account number?",0
+fdb82119-63a7-4059-a1a7-97ad4653196e,159,1,0,1,0,"Could you please verify your account number? Sorry, I think I dialed the wrong number.",1
+67f86266-d435-4138-afc1-be272b55acf6,658,5,0,0,0,"Let me check the status of your order. I have processed your request, is there anything else? Could you please verify your account number?",0
+3319f418-afdc-4e12-82d1-0108f9d71014,558,2,1,0,0,"Could you please verify your account number? I have processed your request, is there anything else?",1
+fb8687c6-df39-4d2d-ad43-ab944137432d,504,4,0,0,0,"Let me check the status of your order. Thank you for calling support, how can I help you? Have a great day, thank you for being a customer.",0
+1ebe7536-4c9a-4d40-846f-e780a51e3380,580,3,0,0,0,"Have a great day, thank you for being a customer. Could you please verify your account number? Let me check the status of your order.",0
+80ccf972-b95f-4eb3-b910-ed90ada68e32,695,3,0,0,0,"Could you please verify your account number? I have processed your request, is there anything else? Have a great day, thank you for being a customer.",0
+4d921bc0-f0d4-4129-b545-f2e9c6e9c111,449,4,0,0,0,"Could you please verify your account number? I have processed your request, is there anything else?",0
+967a4c2b-94a0-4ecd-9762-4c17125d2933,561,4,0,0,0,Could you please verify your account number? Let me check the status of your order.,0
+0c0b7fce-559a-4cf4-bf17-1368e6a6fd7b,416,2,0,0,0,"Let me check the status of your order. I have processed your request, is there anything else? Thank you for calling support, how can I help you?",0
+26a58394-3e24-4bca-abd5-82757e5fcdca,602,5,0,0,0,Let me check the status of your order.,0
+223199a8-6c28-4ed0-a073-a8c9d1ca7aa2,483,2,0,0,0,"Thank you for calling support, how can I help you? Let me check the status of your order. Could you please verify your account number?",0
+d732e0b8-9cdd-4a08-bce1-8606905dd552,630,1,0,0,0,"Thank you for calling support, how can I help you? I have processed your request, is there anything else?",0
+f0ab8029-d867-4190-9fec-3508e264a53d,608,2,0,0,0,"Let me check the status of your order. Thank you for calling support, how can I help you?",0
+314123b4-68cb-4135-9433-a2aa24f2a918,459,1,0,0,0,"I have processed your request, is there anything else? Could you please verify your account number?",0
+da58ff12-4ad2-41d7-9b07-fefc239e8774,349,1,0,0,0,"Let me check the status of your order. Have a great day, thank you for being a customer.",0
+c04cfee5-7164-44c2-9045-f397fd0ee082,625,3,0,0,0,"Let me check the status of your order. Have a great day, thank you for being a customer. Thank you for calling support, how can I help you?",0
+a9e605fb-aa16-4727-8736-6f0f2a5c051a,283,2,0,0,0,"Have a great day, thank you for being a customer.",0
+7c334fb2-2f82-4d87-bd49-56b6cd6d0544,117,5,0,0,0,"Could you please verify your account number? Thank you for calling support, how can I help you? Have a great day, thank you for being a customer.",0
+c39f170b-80f4-47e5-8ef9-8f1f4dcf4a5b,451,5,0,0,0,"Have a great day, thank you for being a customer.",0
+4cf2342d-3c7a-46c1-a9db-d81329e8f046,417,5,0,0,0,"I have processed your request, is there anything else? Have a great day, thank you for being a customer. Let me check the status of your order.",0
+c1badbe7-6cc4-4c8d-a10e-d2ed6356e526,16,0,0,0,0,"Thank you for calling support, how can I help you? Could you please verify your account number?",1
+54c21171-2b20-4c5d-84e9-293a59ab6bb0,343,5,0,0,0,"Thank you for calling support, how can I help you? Let me check the status of your order. I have processed your request, is there anything else?",0
+b2c63dd5-c870-4ecc-b181-dd3f9db30f82,492,3,0,0,0,"Could you please verify your account number? I have processed your request, is there anything else? Have a great day, thank you for being a customer.",0
+91f34d0f-a0bd-4d00-9d1d-9b658aad973f,376,5,0,0,0,Could you please verify your account number?,0
+3d67e0b6-d69b-49ee-b5ae-6466e5982f78,292,3,0,0,0,Could you please verify your account number?,0
+41eacf4b-6fa0-4d35-90af-1cb23018d6ae,476,4,0,0,0,Let me check the status of your order. Could you please verify your account number?,0
+23ad65be-0f9d-4778-9e1a-edc79c943f8b,608,4,0,0,0,Let me check the status of your order.,0
+c49b8cb7-94e8-4983-9918-a7669a1fa292,562,2,0,0,0,"Have a great day, thank you for being a customer. Let me check the status of your order.",0
+2b23a083-ca08-4bb2-be1e-051a490ef190,362,4,0,0,0,Could you please verify your account number? Let me check the status of your order.,0
+8495ff1f-0c3b-408d-8df2-6a21847fb4aa,292,5,0,0,1,"I have processed your request, is there anything else? Let me prescribe something for your fever.",1
+0215eea0-19aa-4c39-8952-a59c9944da2c,672,5,0,0,0,"Have a great day, thank you for being a customer.",0
+107dcacc-e26f-452a-bb4c-97015a6309a1,359,5,0,0,0,Let me check the status of your order.,0
+26d7167b-7f4d-4c20-903a-48be2aea2837,364,5,0,0,0,"Could you please verify your account number? Have a great day, thank you for being a customer.",0
+455df6c1-c8a5-4832-be23-3c1682cd19a2,321,4,0,0,0,"Thank you for calling support, how can I help you? I have processed your request, is there anything else?",0
+3fd58def-f680-4fdc-ab0a-5207c7a06283,366,5,0,0,0,"Could you please verify your account number? You guys are completely useless. Thank you for calling support, how can I help you? Have a great day, thank you for being a customer.",1
+c89560d4-6bb6-4103-9dff-6883e28d334c,578,1,0,0,0,"Have a great day, thank you for being a customer.",0
+48c8282d-1399-40f1-b257-c04e7c8bad16,405,2,0,0,0,Let me check the status of your order.,0
+87379883-5f64-4477-9cda-f77ca8507c40,249,2,0,0,0,Let me check the status of your order.,0
+b8131758-affc-434f-a1f8-069bfa25e9c1,411,4,0,0,0,"Let me check the status of your order. Thank you for calling support, how can I help you? I have processed your request, is there anything else?",0
+354163f3-434c-4d9d-a7fb-575eaeddc01c,545,3,0,0,0,Let me check the status of your order.,0
+2f0cb34d-e86f-43d9-832f-9763f973e32a,321,3,0,0,0,"Let me check the status of your order. I have processed your request, is there anything else?",0
+44ab3b1c-062d-4942-a5d0-9a3548140f85,361,2,0,0,0,Could you please verify your account number? Let me check the status of your order.,0
+952f7acb-1fd3-41a3-8f9b-a2e6c2a0e94c,394,5,0,0,0,"Have a great day, thank you for being a customer.",0
+04f9f4aa-ea37-4783-87f6-70d0f6da87af,796,4,0,0,0,"Thank you for calling support, how can I help you? Have a great day, thank you for being a customer. Could you please verify your account number?",0
+e6b0d08c-dcff-4af2-864a-b5073fb04054,466,2,0,0,0,"Thank you for calling support, how can I help you? Let me check the status of your order. Could you please verify your account number?",0
+2d9da86f-8a6e-4f71-98f3-5ba465ef08f1,743,2,0,0,0,"Have a great day, thank you for being a customer.",0
+860e6fbd-8136-4902-820e-17f69b55a6bc,847,5,0,0,0,Let me check the status of your order. Could you please verify your account number?,0
+69e6f5b0-23f9-4086-9b90-34c7f2474f86,326,3,0,0,0,"I have processed your request, is there anything else? Have a great day, thank you for being a customer.",0
+88de4aa8-af6f-4c2b-9551-4529d84773c9,643,2,0,0,0,Let me check the status of your order.,0
+a2bbb358-4d47-490a-b178-505846e2fda6,543,5,0,0,0,Let me check the status of your order.,0
+6d043195-691f-4dd4-b74e-dfdd5fe75e95,397,1,0,0,1,"Based on your symptoms, it sounds like diabetes. Thank you for calling support, how can I help you?",1
+d929b159-5e8f-47c4-a861-e21f9524e9a0,529,4,0,0,0,"Thank you for calling support, how can I help you?",0
+694fdb7c-47c5-4354-b046-fe257ad22249,301,5,0,0,0,"Have a great day, thank you for being a customer. Thank you for calling support, how can I help you? Could you please verify your account number?",0
+15b3c2e2-217a-4403-9e64-5ea230a3f3ac,307,4,0,0,0,"Have a great day, thank you for being a customer. Let me check the status of your order.",0
+b8ccd3e8-3d41-4f44-8e0a-708ca69e92c9,406,1,0,0,0,"Could you please verify your account number? Thank you for calling support, how can I help you?",0
+94b0f00e-fb68-45a7-8ef8-4e5b34024ecd,588,4,0,0,0,"Let me check the status of your order. Thank you for calling support, how can I help you?",0
+624a831c-4ba1-409c-ac54-1b33362db65f,442,4,0,0,0,"Have a great day, thank you for being a customer. Let me check the status of your order. Could you please verify your account number?",0
+64c9ab54-57ae-4359-a888-313e5cb342f9,239,1,0,0,0,"You guys are completely useless. Could you please verify your account number? Let me check the status of your order. I have processed your request, is there anything else?",1
+b2c85137-ae93-47bc-978f-191134e0b10a,279,3,0,0,0,"Let me check the status of your order. Thank you for calling support, how can I help you?",0
+79bd37a6-3583-4fe4-8a2c-f1c588ee80e5,391,4,0,0,0,"Let me check the status of your order. Thank you for calling support, how can I help you? Could you please verify your account number?",0
+217bb8f6-94c0-46eb-b0c5-a8460aeba305,648,2,0,0,0,Let me check the status of your order. Could you please verify your account number?,0
+e17b2eb3-8189-4c40-bd0d-e7bc417a6736,553,3,0,0,0,"Have a great day, thank you for being a customer. Thank you for calling support, how can I help you? I have processed your request, is there anything else?",0
+ccf83c9a-42bf-433d-87e4-8b73f290e697,401,4,0,0,0,"Have a great day, thank you for being a customer. Could you please verify your account number? This is ridiculous, I want to speak to a manager now! Thank you for calling support, how can I help you?",1
+08828a26-3879-458b-b1f1-d5ecba276423,103,2,0,0,0,"Could you please verify your account number? I have processed your request, is there anything else?",0
+58248721-3443-4f42-ba1e-5c045e1586e8,575,4,0,0,0,"Thank you for calling support, how can I help you? Have a great day, thank you for being a customer.",0
+8f79a748-b23c-46e8-9df0-1bb1e4c0752d,616,4,0,0,0,"Thank you for calling support, how can I help you? Have a great day, thank you for being a customer.",0
+cbee1144-50fb-4ab3-a18e-e97b88d4027d,18,0,0,0,0,"Let me check the status of your order. Thank you for calling support, how can I help you?",1
+28265079-9826-446e-874a-1ad33d3378ee,624,4,0,0,0,"I have processed your request, is there anything else?",0
+c2f0c809-2994-47c1-87cd-fcca9cef0265,354,5,0,0,0,"I have processed your request, is there anything else? Let me check the status of your order. Could you please verify your account number?",0
+61488be8-2b4d-4691-9060-2574c0d43fa3,641,1,1,0,0,"Have a great day, thank you for being a customer. Thank you for calling support, how can I help you?",1
+5cbed5c7-087d-45e3-ad31-69c0af1917d5,120,2,0,0,0,"Thank you for calling support, how can I help you? I have processed your request, is there anything else?",0
+5b7404cd-b51b-48fd-b24e-4f81a2d30bbf,490,2,0,0,0,Let me check the status of your order. Could you please verify your account number?,0
+e5f59ce9-289d-4a97-b546-d40343fc8dca,524,4,0,0,0,"I have processed your request, is there anything else?",0
+a679121a-a710-4f68-a903-2000d2fc3e3e,287,3,0,0,0,"Let me check the status of your order. Could you please verify your account number? I have processed your request, is there anything else?",0
+a75c5958-e4a3-41f0-8481-468db1bdc5d8,399,2,0,0,0,"I have processed your request, is there anything else?",0
+8e30ec96-ad20-4333-8efe-2501a90b64bb,304,1,0,0,0,"Could you please verify your account number? Thank you for calling support, how can I help you?",0
+73a8bc53-bde3-4511-af72-f525c5ab886a,441,4,0,0,0,"Have a great day, thank you for being a customer.",0
+4a8d780d-9c85-4af5-a101-771708620f47,636,4,0,0,0,"Thank you for calling support, how can I help you? Let me check the status of your order. Could you please verify your account number?",0
+34f85c5e-1fb1-4ef1-9439-2e744110e7db,118,5,0,0,0,"I have processed your request, is there anything else? Let me check the status of your order. Thank you for calling support, how can I help you?",0
+7abf3294-f468-4eef-a04f-287fa2ffb35b,486,4,0,0,0,"Thank you for calling support, how can I help you?",0
+be009cc8-512c-4752-9ed3-13c0d3a06a8b,272,5,0,0,0,"Could you please verify your account number? Have a great day, thank you for being a customer. Let me check the status of your order.",0
+8ccbab71-d369-471b-b381-24e64afa9ce4,370,2,0,0,0,"Thank you for calling support, how can I help you? Have a great day, thank you for being a customer. Let me check the status of your order.",0
+52c3a2f5-bbf1-462e-bbad-5c881cef6ca6,309,1,0,0,0,"Thank you for calling support, how can I help you? Have a great day, thank you for being a customer.",0
+49596226-4286-440e-b394-4fe734c75bb5,186,4,0,0,0,"Thank you for calling support, how can I help you? I have processed your request, is there anything else? Could you please verify your account number?",0
+e29771f2-ab21-4646-a1cb-afda56553dce,276,4,0,0,0,"I have processed your request, is there anything else? Have a great day, thank you for being a customer. Let me check the status of your order.",0
+ad02c80d-0c45-4163-89e0-4415872dbacd,607,4,0,0,0,"Thank you for calling support, how can I help you? Have a great day, thank you for being a customer. Let me check the status of your order.",0
+f280e88c-c6e2-411d-ac2e-06e39935cdad,279,5,0,0,0,"Thank you for calling support, how can I help you?",0
+4537c656-0908-4d0c-b30f-d0599286b08e,352,4,0,0,0,"Have a great day, thank you for being a customer. I have processed your request, is there anything else?",0
+93b5dd65-f584-4608-bdf7-c81383f6ecc0,446,3,0,0,0,"I have processed your request, is there anything else? Could you please verify your account number? Thank you for calling support, how can I help you?",0
+339a4a6c-010d-4186-8180-3ba0bd065ce8,277,1,0,0,0,"Have a great day, thank you for being a customer.",0
+46a750f3-2c88-4b93-b213-6d9407c9b048,584,2,0,0,0,"Have a great day, thank you for being a customer.",0
+881ed2a2-79d4-4fc5-ae78-68c92013fa21,461,3,0,0,0,"This is ridiculous, I want to speak to a manager now! Have a great day, thank you for being a customer.",1
+3f322d04-ec59-43ee-b4d4-d57e17c8299d,416,2,1,0,0,"I have processed your request, is there anything else?",1
+1711a2a1-cc42-4667-b032-cfa7e3ae4ee4,220,3,0,0,0,"Have a great day, thank you for being a customer. Could you please verify your account number?",0
+5ff47f2a-fb5f-41fe-9346-924c3f7b4303,286,5,0,0,0,Could you please verify your account number?,0
+88b39ef3-b962-41f5-9525-a688ceb51ca1,7,0,0,0,0,"Could you please verify your account number? Thank you for calling support, how can I help you?",1
+77b1a15f-eba1-4c60-9f68-1a076342f023,362,3,0,0,0,Let me check the status of your order.,0
+2e539f0a-0988-4577-869d-ce4b92aeeb84,179,5,0,0,0,"Could you please verify your account number? Thank you for calling support, how can I help you?",0
+3b2d8b7d-549e-400f-9ece-a923e54619b6,515,3,0,0,0,"I have processed your request, is there anything else? Let me check the status of your order. Could you please verify your account number?",0
+e3d59b1e-2e1a-4793-acd3-facff7fd4403,370,5,0,0,0,"Let me check the status of your order. I have processed your request, is there anything else?",0
+2dd93e97-80de-423a-a5b1-a43431c4ef6b,516,1,0,0,0,"I have processed your request, is there anything else? Let me check the status of your order. Thank you for calling support, how can I help you?",0
+a71724bd-7edd-4ff8-be54-0298262a3729,197,2,0,0,0,"Could you please verify your account number? Thank you for calling support, how can I help you?",0
+546de5f7-6ec6-4d29-81fd-93a917ceb258,526,2,0,0,0,Let me check the status of your order.,0
+25de8423-ae66-4009-98a0-6e7691e3fb04,379,3,0,0,0,"I have processed your request, is there anything else? You guys are completely useless. Have a great day, thank you for being a customer.",1
+c3ddc825-681b-4c61-9bf9-2b749751028f,296,4,0,0,0,"Have a great day, thank you for being a customer. I have processed your request, is there anything else? Could you please verify your account number?",0
+5874ef93-89c4-402e-99af-85d3280a0a9e,434,1,0,0,0,"Have a great day, thank you for being a customer. Could you please verify your account number? Let me check the status of your order.",0
+125af58b-14b4-4ce3-a762-e28cf09cb30f,395,3,0,0,0,"Let me check the status of your order. Thank you for calling support, how can I help you? Have a great day, thank you for being a customer.",0
+49dca84b-aa9b-4046-b173-43f6b805a391,461,2,0,0,0,"I have processed your request, is there anything else?",0
+5bd258c1-de95-4014-939b-4d99eb1e7697,522,1,0,0,0,"Thank you for calling support, how can I help you? Could you please verify your account number?",0
+ff5d16c2-7204-4825-8d94-167d1a2b862e,193,5,0,0,0,"Have a great day, thank you for being a customer. Let me check the status of your order.",0
+c9b34e55-cadd-4a93-a6e9-9fd5e5dbba94,346,3,0,0,0,"Thank you for calling support, how can I help you? Could you please verify your account number? Have a great day, thank you for being a customer.",0
+31951115-162b-43c1-92eb-b40ce5ffe4cb,281,1,0,0,0,"Thank you for calling support, how can I help you? Let me check the status of your order.",0
+4260ee85-234d-47d6-864a-49139c91d959,218,2,0,0,0,"I have processed your request, is there anything else? Could you please verify your account number? Have a great day, thank you for being a customer.",0
+3eb01558-b8ff-4664-87d5-860af589f47c,360,5,0,0,0,Let me check the status of your order. Could you please verify your account number?,0
+c9313eea-1d2a-4ffa-b8c4-57f15e53c177,455,1,1,0,0,"Let me check the status of your order. Could you please verify your account number? I have processed your request, is there anything else?",1
+85c4f34d-da46-4741-bfac-cc1879d31d0c,412,5,0,0,0,"Thank you for calling support, how can I help you?",0
+84512b9b-e204-42de-8535-deeaa7f830c9,251,4,0,0,0,"Thank you for calling support, how can I help you? Let me check the status of your order.",0
+121746d6-cc87-4bcb-956d-11c40a25b66f,315,3,0,0,0,"Thank you for calling support, how can I help you? I have processed your request, is there anything else? Let me check the status of your order.",0
+f0a11c9b-a5d9-4863-8611-75c5a7d5fef1,341,3,0,0,0,"I have processed your request, is there anything else? Could you please verify your account number? Have a great day, thank you for being a customer.",0
+6635b56d-ef2f-4628-8be8-145de5da66cf,625,1,0,0,1,"Have a great day, thank you for being a customer. Thank you for calling support, how can I help you? Let me prescribe something for your fever. Let me check the status of your order.",1
+d7a454e9-76fd-497e-96e9-7e0ebe460aca,301,5,0,0,0,"Let me check the status of your order. Have a great day, thank you for being a customer.",0
+21a70090-f3ba-4367-ae8a-e599e83c18e7,197,5,0,0,0,"I have processed your request, is there anything else? Could you please verify your account number?",0
+63ee3e16-a003-40ac-87ac-92dccdf00728,30,5,0,0,0,Could you please verify your account number?,0
+3f3b2f4b-16d3-4cfc-9448-3770a418ac83,30,2,0,0,0,"Have a great day, thank you for being a customer.",0
+17ba221b-139c-4f05-9afc-2de4a68c64f4,517,1,0,0,0,Let me check the status of your order.,0
+e7c4df15-1aca-47b0-8125-aca656726176,335,1,0,0,0,"I have processed your request, is there anything else? Let me check the status of your order.",0
+a35a2c0c-9c18-4b60-98f4-1cfa836e684d,231,3,0,0,0,"Let me check the status of your order. Have a great day, thank you for being a customer. I have processed your request, is there anything else?",0
+c799b2e5-4297-46fb-b399-c5f69ad2438f,669,4,0,0,0,"Let me check the status of your order. Could you please verify your account number? Have a great day, thank you for being a customer.",0
+4fd51ada-673b-4d21-92c0-e1ae82a904d1,472,5,0,0,0,"I have processed your request, is there anything else? Could you please verify your account number?",0
+45bae668-a44a-48c5-9d95-0a68db992e0a,221,2,0,1,0,"I have processed your request, is there anything else? Sorry, I think I dialed the wrong number.",1
+f58c0634-3ac7-438d-a84b-d2d57c9443c6,272,4,0,0,0,"I have processed your request, is there anything else?",0
+3d7ce88d-e341-4486-80e7-77b7a5a8c484,474,1,0,0,0,"Could you please verify your account number? I have processed your request, is there anything else?",0
+e767bf56-b66b-4364-8c5b-9a157634f165,495,1,0,0,0,"Could you please verify your account number? Thank you for calling support, how can I help you? Have a great day, thank you for being a customer.",0
+9c7ecd61-bbf8-4725-96b8-359e9365ef7b,312,1,0,0,0,"Thank you for calling support, how can I help you? Let me check the status of your order. Could you please verify your account number?",0
+e345537e-cfe3-479a-ae84-1fb49b4f70f4,374,5,0,0,0,"Have a great day, thank you for being a customer. Thank you for calling support, how can I help you?",0
+648a6a7a-26fe-4c80-b69e-89d70740d0ce,371,1,0,0,0,Could you please verify your account number? Let me check the status of your order.,0
+6031eaa9-af16-4f98-84c8-e03af3a5acdc,525,4,0,0,0,"Could you please verify your account number? I have processed your request, is there anything else?",0
+7a3f256d-7902-41be-8a8f-48eaec9d6d55,236,1,0,0,0,"Thank you for calling support, how can I help you?",0
+fa55a3dc-ed5d-4fc3-92d3-9957c20f7296,664,4,0,0,0,"Let me check the status of your order. Thank you for calling support, how can I help you? Could you please verify your account number?",0
+83a7abe0-ad1e-4228-a757-c31e7505cf1c,548,3,0,0,0,"I have processed your request, is there anything else? Could you please verify your account number? Let me check the status of your order.",0
+61fe20fc-9529-48e2-b06f-6144fbab22be,347,4,0,0,0,"Thank you for calling support, how can I help you?",0
+382a4077-5d6a-4d91-a4fd-ac88157940a5,471,3,0,0,0,Could you please verify your account number?,0
+91eb7e43-3359-4e4e-9234-ecb82ffd50ea,421,2,0,0,0,"Have a great day, thank you for being a customer.",0
+ac192bfb-6b2b-41c0-b336-edef0487bdd5,390,4,0,0,0,Let me check the status of your order.,0
+4f609196-09a6-404c-a79f-a4e6b79c39b1,379,3,0,0,0,"Have a great day, thank you for being a customer. Thank you for calling support, how can I help you?",0
+0a803e03-078b-4133-a8d1-5ab7d4850185,518,4,0,0,0,"Have a great day, thank you for being a customer. I have processed your request, is there anything else? Let me check the status of your order.",0
+0bfa07eb-c923-4a93-b00c-5a4d526827cd,552,5,0,0,0,Could you please verify your account number?,0
+c8ed1246-7d67-473d-ae15-d4c31d0af93d,435,2,0,0,0,"Could you please verify your account number? I have processed your request, is there anything else?",0
+7454cf0b-5910-4b89-adab-5440cd0a4479,77,4,0,0,0,"I have processed your request, is there anything else? Could you please verify your account number? Have a great day, thank you for being a customer.",0
+3766d4ad-172e-418d-b8c7-269a1443edf0,238,3,0,0,0,"Could you please verify your account number? Let me check the status of your order. Have a great day, thank you for being a customer.",0
+e5ca52e3-02fc-477a-898a-d59497cad383,96,4,0,0,0,"Thank you for calling support, how can I help you? I have processed your request, is there anything else?",0
+852615a2-68e9-4bda-a7fe-5f0792f9c9aa,367,3,0,0,0,"I have processed your request, is there anything else?",0
+5d4544f4-8e1f-4299-85ba-f28801206f06,435,3,0,0,0,"Thank you for calling support, how can I help you? Let me check the status of your order. Could you please verify your account number?",0
+d43e3a03-8774-425e-8f66-45472da317f1,445,2,0,0,0,"Let me check the status of your order. Have a great day, thank you for being a customer. Could you please verify your account number?",0
+037bd392-33ff-4c03-a007-50391ceffba7,596,1,0,0,0,"I have processed your request, is there anything else?",0
+2de8858a-b63d-49d3-b642-31ff0d60b8d3,251,1,0,0,0,"Have a great day, thank you for being a customer. Thank you for calling support, how can I help you?",0
+2095883b-692a-4ed9-aa49-3bfb959293b8,394,5,0,0,0,"Could you please verify your account number? I have processed your request, is there anything else?",0
+aab25135-bdab-497c-9c82-8d0a95f980e1,447,1,0,0,0,"I have processed your request, is there anything else?",0
+f95d9929-bde5-4de0-9642-4e27c39fced8,382,5,0,0,0,"Thank you for calling support, how can I help you? Have a great day, thank you for being a customer.",0
+5159cd68-6aa1-451a-add7-475793d83cd9,589,2,0,0,0,Could you please verify your account number?,0
+985f176f-4cf0-476f-850a-705132d5e01d,387,4,0,0,0,"Thank you for calling support, how can I help you? I have processed your request, is there anything else?",0
+60a1726f-1333-4c27-8b5e-16de169c7586,461,3,0,0,0,"Let me check the status of your order. Thank you for calling support, how can I help you?",0
+a7508bc9-40fd-44c5-8290-d3f712f7532d,428,5,0,0,0,Could you please verify your account number? Let me check the status of your order.,0
+4819b43f-8c2b-4beb-ace2-baaf48857bf2,327,1,0,0,0,"I have processed your request, is there anything else?",0
+3342ae58-a45b-4692-ba08-431d8d30475c,314,2,0,0,0,"Could you please verify your account number? Have a great day, thank you for being a customer.",0
+aa65aa80-1fcc-4be8-a4a3-414487617d66,164,4,0,0,0,"I have processed your request, is there anything else? Could you please verify your account number? Thank you for calling support, how can I help you?",0
+61a7cf19-6b89-4516-a501-ccc105300a54,571,5,0,0,0,"Could you please verify your account number? Thank you for calling support, how can I help you? I have processed your request, is there anything else?",0
+727ad765-80e4-4134-8040-e7904628c60c,387,5,0,0,0,"Thank you for calling support, how can I help you?",0
+c8311efe-31be-4116-91e9-3ab640e774ba,169,3,0,0,0,Could you please verify your account number?,0
+b9634f9f-235a-438d-8cb4-f290105e5f9b,480,2,0,0,0,"Could you please verify your account number? I have processed your request, is there anything else?",0
+10a9724c-5a70-4559-b812-1af228740cd8,488,3,0,0,0,"Have a great day, thank you for being a customer. I have processed your request, is there anything else?",0
+09804178-43c9-4238-85c9-ee7a127e0e43,266,4,0,0,0,"Thank you for calling support, how can I help you? Have a great day, thank you for being a customer. Let me check the status of your order.",0
+9c24cb4e-b02e-48ec-bb2b-3ef757931eaf,422,1,0,0,0,Let me check the status of your order. Could you please verify your account number?,0
+6899c874-3206-4bff-9075-20a9e70e1abf,317,3,0,0,0,"Have a great day, thank you for being a customer.",0
+d224514b-294d-49a6-91cf-b0c2e9a4bace,592,2,0,0,0,"Could you please verify your account number? Have a great day, thank you for being a customer.",0
+91843cc2-3aad-405c-b9d7-01c414db7e70,525,1,0,0,0,"I have processed your request, is there anything else?",0
+965135c7-217e-4ca0-94e9-6e02b623117b,358,1,0,0,0,"Could you please verify your account number? Have a great day, thank you for being a customer. Thank you for calling support, how can I help you?",0
+f6bb05c6-7b7a-456c-ae14-4a2e05432e52,325,1,0,0,0,"I have processed your request, is there anything else?",0
+ca6f2090-5cfc-4650-98d1-baeffc220b4a,84,4,0,0,0,"I have processed your request, is there anything else? Thank you for calling support, how can I help you? Have a great day, thank you for being a customer.",0
+4789a07d-ed77-4f98-9c49-2b21c9da980c,338,2,0,0,0,"I have processed your request, is there anything else? Have a great day, thank you for being a customer. Could you please verify your account number?",0
+f291bb7f-abca-41a7-a865-996da2d73c6c,349,1,0,0,0,"I have processed your request, is there anything else? Have a great day, thank you for being a customer.",0
+2f264ebb-16df-4163-9a5a-e7bb836c781c,431,4,0,0,0,"Could you please verify your account number? I have processed your request, is there anything else? Let me check the status of your order.",0
+676d75a2-1e42-41c4-aea2-59d3ab297d2c,533,1,0,0,0,"Thank you for calling support, how can I help you?",0
+ae9ab2f5-2532-49db-90b4-3a16aafd0990,279,2,0,0,0,"Have a great day, thank you for being a customer. Could you please verify your account number?",0
+ed2fb8e0-bd37-4f4b-b3e7-06562bf06275,257,1,0,0,0,"I have processed your request, is there anything else? Thank you for calling support, how can I help you? Let me check the status of your order.",0
+e2011cd4-6327-4a62-a59e-6c55615fb6f8,494,4,0,0,0,"Thank you for calling support, how can I help you?",0
+f21d88ca-d15e-43ff-b65e-cea8daa3e95f,9,0,0,0,0,"Have a great day, thank you for being a customer. Could you please verify your account number? Thank you for calling support, how can I help you?",1
+db698ed2-b5f6-4162-a245-5a27f313a9d2,359,5,0,0,0,"I have processed your request, is there anything else? Could you please verify your account number? Let me check the status of your order.",0
+7da88849-ae40-4e46-b7aa-c4de0dba671a,133,4,0,0,0,"Thank you for calling support, how can I help you? I have processed your request, is there anything else? Could you please verify your account number?",0
+d5886e03-24d9-4a9c-b7ad-9c5d67aee19d,473,3,0,0,0,"I have processed your request, is there anything else?",0
+8426c43f-72b7-4ac4-9f0a-3b353e97e29a,248,2,0,0,0,"Have a great day, thank you for being a customer. Let me check the status of your order.",0
+dcfbe8c5-7e2b-4119-9645-492bdc3f7874,603,2,0,0,0,"Thank you for calling support, how can I help you? Could you please verify your account number?",0
+9cf50f6e-96ed-4e25-a845-166d12aafa5b,711,1,0,0,0,"Let me check the status of your order. Could you please verify your account number? Thank you for calling support, how can I help you?",0
+35587bb9-92f2-4e4f-9584-66a355f7fa37,86,1,0,0,0,"Have a great day, thank you for being a customer. Let me check the status of your order. Thank you for calling support, how can I help you?",0
+33f8098b-4bc8-4b4a-ae8a-02b5019d9af0,404,1,0,0,0,Could you please verify your account number? Let me check the status of your order.,0
+1d24e8db-cecc-447f-ab6b-26f1495e7341,492,2,0,0,0,Could you please verify your account number?,0
+bc9fdca7-ff50-433f-a6b1-29bb749269e1,146,5,0,0,0,"Have a great day, thank you for being a customer. I have processed your request, is there anything else? Let me check the status of your order.",0
+ddc65812-767b-4ef9-a9a9-023d15943fbb,180,1,0,0,0,Could you please verify your account number?,0
+437a8311-1ec8-4e45-87aa-c029e133afcc,6,0,0,0,0,"Have a great day, thank you for being a customer.",1
+7a413b97-8ddc-4abe-a51e-f0b4c8ae9f9e,521,5,0,0,0,"Thank you for calling support, how can I help you?",0
+4e02bd70-6540-46f6-b8db-fbafc9d86a85,341,3,0,0,0,"Let me check the status of your order. Thank you for calling support, how can I help you?",0
+6c18821b-22b2-4b71-a429-fcc2f30599af,385,2,0,0,0,"Let me check the status of your order. I have processed your request, is there anything else?",0
+8f00d46c-127e-48ed-bf2c-6367103e53d1,617,2,0,0,0,"I have processed your request, is there anything else?",0
+fd861e52-3433-425b-814d-66b121739830,482,5,0,0,0,"Have a great day, thank you for being a customer. Thank you for calling support, how can I help you?",0
+9c6f735c-fcac-4aa1-9530-01afeebf1e6f,432,1,0,0,0,"I have processed your request, is there anything else? Could you please verify your account number?",0
+00a5ce7d-bd0e-45d2-ad65-2f6d76a5e799,283,3,0,0,0,Let me check the status of your order.,0
+64971352-35b3-4c71-b22a-383350ac36b0,387,2,0,0,0,Could you please verify your account number?,0
+0debf238-1470-402f-8f11-f899292eb604,772,5,0,0,0,"I have processed your request, is there anything else?",0
+7463548e-f421-46ca-8878-0737816c7243,514,4,0,0,0,"Let me check the status of your order. I have processed your request, is there anything else? Could you please verify your account number?",0
+2b2319d6-e693-48fb-a5da-7789d3d55fd3,492,5,0,0,0,"Have a great day, thank you for being a customer. I have processed your request, is there anything else? Let me check the status of your order.",0
+f4933d41-226b-4966-8a25-f7d7ae9f2d81,682,2,0,0,0,"Thank you for calling support, how can I help you? Have a great day, thank you for being a customer.",0
+a975a43a-5bcb-4e21-99a5-5e738332815c,435,4,0,0,0,"I have processed your request, is there anything else? Have a great day, thank you for being a customer. Thank you for calling support, how can I help you?",0
+809bcf14-2534-473c-a897-69ea08f3009c,259,4,0,0,0,Could you please verify your account number?,0
+cc5432d2-a0d2-4b29-b452-48d1b855b532,680,2,0,0,0,"Let me check the status of your order. I have processed your request, is there anything else? Could you please verify your account number?",0
+176312b8-fb4e-4394-ad40-61a455e4a488,513,3,0,0,0,"Could you please verify your account number? I have processed your request, is there anything else?",0
+50ea2910-4139-4108-8cc0-a63214cb492c,360,1,0,0,0,Could you please verify your account number?,0
+d3021b97-b732-4a7f-aa7c-1d1dcea99819,398,3,0,0,0,"Could you please verify your account number? Let me check the status of your order. Have a great day, thank you for being a customer.",0
+414b670e-f6e1-4ddc-b91b-7707c9cc4246,563,3,0,0,0,"Have a great day, thank you for being a customer. Thank you for calling support, how can I help you? Could you please verify your account number?",0
+76737b41-cb57-4d67-9ee1-e54294f46645,326,1,0,0,0,"Have a great day, thank you for being a customer. I have processed your request, is there anything else?",0
+371658f7-346e-412d-bd6d-72023a4af235,200,3,0,0,1,"I have processed your request, is there anything else? Let me check the status of your order. Let me prescribe something for your fever.",1
+770b441b-91c2-483f-b627-6d1b28708b2c,471,3,0,0,0,"Could you please verify your account number? Thank you for calling support, how can I help you? Let me check the status of your order.",0
+650ddc5b-7002-4115-8f23-9154125b3ac8,280,1,0,0,0,Let me check the status of your order.,0
+39000f32-3d97-4c97-8507-b6708b0eaca4,414,2,0,0,0,"Thank you for calling support, how can I help you? Could you please verify your account number?",0
+7cea6a04-4050-4085-9940-88e0eb807070,158,4,0,0,0,"Let me check the status of your order. Thank you for calling support, how can I help you? Could you please verify your account number?",0
+dd1b889c-e8fd-4b6f-8f29-61c05f019359,223,1,0,0,0,"I have processed your request, is there anything else? Could you please verify your account number? Thank you for calling support, how can I help you?",0
+ba3783eb-0f87-4073-bacd-b23f59deb0ce,303,3,0,0,0,"I have processed your request, is there anything else? Have a great day, thank you for being a customer. Let me check the status of your order.",0
+d54d0471-f393-487f-b148-6901e9aec2dd,308,1,0,0,0,"Thank you for calling support, how can I help you?",0
+9a90dc4d-4922-4705-87c3-122cab24d7a4,390,5,0,0,0,"Thank you for calling support, how can I help you? Have a great day, thank you for being a customer. I have processed your request, is there anything else?",0
+29c7d71a-51e1-485c-9e73-2bc2922d25be,368,1,1,0,0,"Thank you for calling support, how can I help you? Have a great day, thank you for being a customer.",1
+35e7c746-5970-44ed-827b-863fc267e8ae,164,4,0,0,0,"Thank you for calling support, how can I help you?",0
+fc7b00f3-c087-4ffe-ba52-df0faef02040,432,5,0,0,0,"Could you please verify your account number? Have a great day, thank you for being a customer. Let me check the status of your order.",0
+4780ebbf-4bae-4527-8a22-fbd01cc46467,234,4,0,0,0,"Thank you for calling support, how can I help you? I have processed your request, is there anything else?",0
+87246400-6333-403d-a8bc-a9e435bff75b,401,2,0,0,0,"Have a great day, thank you for being a customer. Let me check the status of your order. Thank you for calling support, how can I help you?",0
+47491213-2e79-4e70-9f44-3a0ed2218359,698,3,0,0,0,"Let me check the status of your order. I have processed your request, is there anything else?",0
+340c9a1a-1d51-4c77-bdc8-c4832e3df312,609,5,0,0,0,"Thank you for calling support, how can I help you?",0
+4eec3f64-13d2-4db9-b74b-2f5ed9566052,426,1,0,0,0,"I have processed your request, is there anything else?",0
+a3530fae-47b2-48c2-beb6-b4be7da7a0ee,298,5,0,0,0,"Thank you for calling support, how can I help you?",0
+707e5fb8-3545-4bd1-8248-a18eb443e4d5,545,5,0,0,0,Could you please verify your account number?,0
+4c55487a-ecdc-436b-900d-931e6cd1d5dd,285,1,0,0,0,Could you please verify your account number?,0
+fafbd409-b3b5-4c9e-aaa9-4112c56e6d30,240,2,0,0,0,"I have processed your request, is there anything else? Let me check the status of your order. Thank you for calling support, how can I help you?",0
+ea3a1d1f-d0a9-4a4e-bf14-f9a8e71e3b47,406,3,0,1,0,"Have a great day, thank you for being a customer. Sorry, I think I dialed the wrong number.",1
+dec3c383-e871-4698-8e62-f3be002ede69,280,1,0,0,0,"I have processed your request, is there anything else? Have a great day, thank you for being a customer. Could you please verify your account number?",0
+196f32f5-242c-491e-be07-c5429b7cc985,482,2,0,0,0,"Thank you for calling support, how can I help you? Could you please verify your account number? I have processed your request, is there anything else?",0
+371faac3-2f32-407c-9e4e-8b836979da17,203,1,0,0,0,"Have a great day, thank you for being a customer.",0
+d860cabb-6c1b-4fdf-878a-3cac302a4d14,245,5,0,0,0,"Have a great day, thank you for being a customer.",0
+835e500c-2dd2-4e6d-9133-3490412d0661,412,3,0,0,1,"You should stop taking that medication immediately. Thank you for calling support, how can I help you? Could you please verify your account number?",1
+7294f004-ab5f-47a2-b28c-e3a9d9af6643,406,3,0,0,0,"Thank you for calling support, how can I help you?",0
+72e4a864-1b18-4712-a63a-58d3525824e8,344,4,0,0,0,Could you please verify your account number?,0
+cefc2c51-8b2d-48cc-8c5d-5338407e441c,429,3,0,0,0,"Let me check the status of your order. Have a great day, thank you for being a customer. Could you please verify your account number?",0
+0bb31c79-4677-4021-9e41-7b112343ca1f,490,3,0,0,0,"I have processed your request, is there anything else? Have a great day, thank you for being a customer.",0
+8c4579f3-f692-4765-a46c-28a31902e2b3,273,5,0,0,0,Could you please verify your account number? Let me check the status of your order.,0
+5e84ca08-a938-4632-a2f1-5771a1ec98b6,425,5,0,0,0,"Thank you for calling support, how can I help you?",0
+2458d87e-5e2a-4e79-98e9-905602722b69,367,3,1,0,0,Could you please verify your account number?,1
+9162b73b-b345-4401-8b7c-ce8f3f1e45fd,264,1,0,0,0,"Thank you for calling support, how can I help you? I have processed your request, is there anything else?",0
+bc417605-9fba-4203-a091-06e1198576c3,243,4,0,0,0,"Have a great day, thank you for being a customer. Let me check the status of your order. Thank you for calling support, how can I help you?",0
+fa615120-18e9-4e8f-b3db-d87665c9e54d,5,0,0,0,0,"I have processed your request, is there anything else?",1
+2ccfc399-182f-48da-9d0e-5879ad1fb190,497,4,1,0,0,Let me check the status of your order. Could you please verify your account number?,1
+175ca476-7cca-4bec-9bef-c898d834bfc3,36,4,0,0,0,Could you please verify your account number?,0
+e6c27430-4211-4d54-b68a-d04c0b7fe459,367,3,0,0,0,"Thank you for calling support, how can I help you? You guys are completely useless. Let me check the status of your order.",1
+86bd66ff-01f5-403f-9cea-c7d410e66665,18,0,0,0,0,"Have a great day, thank you for being a customer. Could you please verify your account number? Thank you for calling support, how can I help you?",1
+fde1a390-a300-405e-8e71-c1875bebbbb9,246,4,0,0,0,Could you please verify your account number? Let me check the status of your order.,0
+ba55e1a8-aec6-4c57-9ab4-c1cf359e853c,530,1,0,0,0,"I have processed your request, is there anything else?",0
+1358e130-79d0-4f2a-b78c-dd967a8e2c94,576,1,0,0,0,"Thank you for calling support, how can I help you? I have processed your request, is there anything else?",0
+da760e83-6750-4ebc-9a0d-52113e915b47,542,4,0,0,0,"Have a great day, thank you for being a customer. I have processed your request, is there anything else?",0
+8e4c2463-09ef-4241-89b8-0681d370abdb,121,4,0,0,0,Could you please verify your account number? Let me check the status of your order.,0
+9de2fa64-8234-4675-ac9d-a88a9321c285,311,3,0,0,1,"Thank you for calling support, how can I help you? Let me prescribe something for your fever.",1
+ca7590ee-c6d9-4d0b-910c-ec6785c699bf,337,3,0,0,0,"Thank you for calling support, how can I help you? Let me check the status of your order.",0
+417917e2-5776-4c7a-8399-c04297046217,278,2,0,0,0,Let me check the status of your order.,0
+dbf4860c-dc1c-42dc-a307-32d156ea7f31,528,4,0,0,0,"Could you please verify your account number? Have a great day, thank you for being a customer. I'm going to sue your company.",1
+e78652d2-c890-420f-946a-f6037f40f060,193,5,0,0,0,"Could you please verify your account number? I have processed your request, is there anything else? Have a great day, thank you for being a customer.",0
+71815ada-e0f1-4b82-9048-42bf3a88e815,537,3,0,0,0,"Let me check the status of your order. Thank you for calling support, how can I help you? I have processed your request, is there anything else?",0
+ee206cb2-524e-4335-a6f0-300aef506f97,285,3,0,0,0,"Thank you for calling support, how can I help you? Let me check the status of your order. Have a great day, thank you for being a customer.",0
+5464e905-41df-4de6-9794-f9db5226f9fa,477,5,0,0,0,"I have processed your request, is there anything else?",0
+5b342607-fb92-4249-8310-a8fc75cd471c,227,2,0,0,0,"Have a great day, thank you for being a customer.",0
+92d58731-4140-4d70-a7d8-8e9f2d269eae,577,1,0,0,0,"Have a great day, thank you for being a customer. Let me check the status of your order. I have processed your request, is there anything else?",0
+7344be16-6459-4916-9598-a37d41e8c3a0,405,2,0,0,0,"Let me check the status of your order. Have a great day, thank you for being a customer. Could you please verify your account number?",0
+08bafe4d-8f67-4d08-960f-d5f3e32e8d88,371,1,0,0,0,"I have processed your request, is there anything else? Thank you for calling support, how can I help you? Have a great day, thank you for being a customer.",0
+369db9b9-8691-4984-82ab-25313605466a,496,1,0,0,0,"Let me check the status of your order. Have a great day, thank you for being a customer.",0
+d18a473f-27f4-4d37-bfee-3ca538b94dd1,578,3,0,0,0,"Have a great day, thank you for being a customer.",0
+5768c02f-6b4b-4d3c-974b-8f4de9fdcdd9,591,1,0,0,0,"Could you please verify your account number? I have processed your request, is there anything else?",0
+bda08c40-f22c-4f74-ab68-56c6b4493ed0,454,1,0,0,0,Let me check the status of your order.,0
+f5404fe5-0795-499e-84f9-f6ee86ec8b33,340,1,0,0,0,Could you please verify your account number?,0
+bac14285-8346-4a92-98d0-841de97ee152,289,3,0,0,0,"Thank you for calling support, how can I help you? Have a great day, thank you for being a customer. Let me check the status of your order.",0
+6f0bdd0c-0eed-414f-ac5b-c519adf08a9d,619,2,0,0,0,"I have processed your request, is there anything else? Thank you for calling support, how can I help you?",0
+050e4a4b-840f-4bbe-a21e-ebfe778b239d,427,3,0,0,0,"Have a great day, thank you for being a customer. Thank you for calling support, how can I help you?",0
+dec167a9-f39d-4204-aa6a-ed0a82274886,465,3,0,0,0,"I have processed your request, is there anything else? Could you please verify your account number?",0
+a62d4905-c985-4572-8833-d25c4312bc3b,711,3,0,0,0,"Thank you for calling support, how can I help you? I have processed your request, is there anything else?",0
+bdd7a4c5-818c-426e-8a67-dc0245fb3a61,327,4,0,0,0,"I have processed your request, is there anything else? Let me check the status of your order.",0
+f7e2f02c-6d2f-414a-83f5-5c080a7f4eef,632,1,0,0,0,"I have processed your request, is there anything else? Have a great day, thank you for being a customer. Let me check the status of your order.",0
+2d8b56d0-b842-41d6-bfb8-f6ce6ea15906,565,4,0,0,0,"I have processed your request, is there anything else?",0
+d54d9966-98eb-4d45-9dea-6938f336c1e6,458,2,0,0,0,"Thank you for calling support, how can I help you? Let me check the status of your order.",0
+ed947103-b1f7-4f38-9a64-4124b5fe997a,362,3,0,0,0,"Thank you for calling support, how can I help you?",0
+db5d9c93-0af2-4bac-afdb-712771ea17af,340,3,0,0,0,"Have a great day, thank you for being a customer. I have processed your request, is there anything else? Let me check the status of your order.",0
+52298c8a-7113-49bb-bc4e-ad6f7ae764dd,266,5,0,0,0,"Thank you for calling support, how can I help you? Could you please verify your account number?",0
+5bc9a418-8acd-4afb-9d66-e5c4ddf2ee4e,347,2,0,0,0,"Have a great day, thank you for being a customer.",0
+efc6716d-d1a1-4531-b1aa-d1a94836d93a,514,2,0,0,0,"I have processed your request, is there anything else? Could you please verify your account number?",0
+1471e4e9-9df5-4f5d-a69f-86242c298239,481,4,0,0,0,Let me check the status of your order.,0
+657eed18-b9b3-4f60-b08b-4f6028949f03,387,3,0,0,0,Let me check the status of your order.,0
+94e2a3f2-e6d3-49ef-9ce3-aaebc342ea37,383,2,0,0,0,"I have processed your request, is there anything else?",0
+23a0b048-3bc0-4351-956f-af039e1397e8,272,4,0,0,0,Could you please verify your account number? Let me check the status of your order.,0
+648cbba3-2502-4091-b2b7-c8cd65bebf34,8,0,0,0,0,Could you please verify your account number?,1
+395536d6-8a42-4e65-b5d6-b077af336fb6,438,5,0,0,0,"Let me check the status of your order. Have a great day, thank you for being a customer. Thank you for calling support, how can I help you?",0
+b5be3491-3367-42c9-870b-0e3d3f5b852d,372,4,0,0,0,"Have a great day, thank you for being a customer. I have processed your request, is there anything else?",0
+c605f760-647f-41c3-bbff-fe7b63370912,44,1,0,0,0,"I have processed your request, is there anything else? Have a great day, thank you for being a customer. Thank you for calling support, how can I help you?",0
+67519eaf-5a37-4e35-b242-72398e7d01d7,411,1,0,0,0,"Could you please verify your account number? Have a great day, thank you for being a customer.",0
+e9e414f2-4843-4472-bf0a-628c6b2af400,369,1,0,0,0,"I have processed your request, is there anything else?",0
+67dcae53-368a-460b-8ce0-8d8da9df62dd,500,5,0,0,0,"Have a great day, thank you for being a customer. You guys are completely useless. Let me check the status of your order.",1
+d9309a8a-88c8-441f-95df-84365d795113,471,3,0,0,0,Let me check the status of your order.,0
+56bd0673-fd61-4429-b1b8-43cf571508c9,250,2,0,0,0,Could you please verify your account number?,0
+38339590-e582-4ec3-860c-7560e4b8e586,475,2,0,0,0,"Have a great day, thank you for being a customer. I have processed your request, is there anything else?",0

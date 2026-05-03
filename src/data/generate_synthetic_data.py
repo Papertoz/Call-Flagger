@@ -12,12 +12,13 @@ def generate_synthetic_data(num_samples=1000, output_path=None):
     """
     Generates a synthetic dataset for the Call Quality Auto-Flagger.
     Creates a highly imbalanced dataset where ~9% of calls have a ticket (has_ticket=1).
+    Now includes realistic noise and overlap between classes to avoid perfect F1 scores.
     """
-    print(f"Generating {num_samples} synthetic call records...")
+    print(f"Generating {num_samples} realistic synthetic call records...")
 
     data = []
     
-    # Anomaly templates for positive cases (has_ticket = 1)
+    # Anomaly templates
     medical_phrases = [
         "I recommend taking ibuprofen for the pain.",
         "You should stop taking that medication immediately.",
@@ -30,6 +31,14 @@ def generate_synthetic_data(num_samples=1000, output_path=None):
         "You guys are completely useless.",
         "I'm going to sue your company.",
         "Cancel my account right now!"
+    ]
+    
+    # Subtle negative phrases that don't trigger the regex but might be caught by embeddings
+    subtle_negative_phrases = [
+        "I really don't understand why this is so difficult.",
+        "I've been waiting for months and nothing has happened.",
+        "This is very disappointing service.",
+        "I guess I'll just have to deal with it myself."
     ]
     
     normal_phrases = [
@@ -46,9 +55,9 @@ def generate_synthetic_data(num_samples=1000, output_path=None):
         # Determine if this call will be flagged (9% chance)
         has_ticket = 1 if random.random() < 0.09 else 0
         
-        # Generate base features
+        # Generate base features with normal distributions
         duration = int(np.random.normal(loc=400, scale=150))
-        duration = max(30, min(3600, duration))  # Keep duration between 30s and 3600s
+        duration = max(30, min(3600, duration))
         
         num_questions_asked = random.randint(1, 5)
         
@@ -57,9 +66,20 @@ def generate_synthetic_data(num_samples=1000, output_path=None):
         medical_advice_flag = 0
         transcript_sentences = random.sample(normal_phrases, k=random.randint(1, 3))
         
-        # Inject anomalies if has_ticket is True
+        # NOISE INJECTION: 
+        # Sometimes normal calls have "angry" people but the agent resolves it (no ticket needed)
+        if has_ticket == 0 and random.random() < 0.15:
+            transcript_sentences.append(random.choice(angry_phrases))
+            transcript_sentences.append("I am glad we could resolve that for you.")
+            
+        # Sometimes normal calls are just very short
+        if has_ticket == 0 and random.random() < 0.05:
+            duration = random.randint(15, 45)
+            num_questions_asked = 0
+            
+        # FLAG INJECTION:
         if has_ticket == 1:
-            anomaly_type = random.choice(['medical', 'angry', 'mismatch', 'wrong_number', 'short_duration'])
+            anomaly_type = random.choice(['medical', 'angry', 'mismatch', 'wrong_number', 'short_duration', 'subtle_issue'])
             
             if anomaly_type == 'medical':
                 medical_advice_flag = 1
@@ -74,6 +94,9 @@ def generate_synthetic_data(num_samples=1000, output_path=None):
             elif anomaly_type == 'short_duration':
                 duration = random.randint(5, 20)
                 num_questions_asked = 0
+            elif anomaly_type == 'subtle_issue':
+                # No hardcoded keyword flags triggered, only text embeddings will catch this
+                transcript_sentences.append(random.choice(subtle_negative_phrases))
                 
         # Shuffle transcript sentences and join
         random.shuffle(transcript_sentences)
@@ -103,5 +126,4 @@ def generate_synthetic_data(num_samples=1000, output_path=None):
     return df
 
 if __name__ == "__main__":
-    # Generate a sample file if run directly
     generate_synthetic_data(num_samples=2000, output_path="data/raw/synthetic_full.csv")

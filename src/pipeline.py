@@ -13,7 +13,7 @@ def run_pipeline():
     Executes the entire machine learning pipeline end-to-end.
     """
     print("="*50)
-    print("🚀 Starting Call Quality Auto-Flagger Pipeline 🚀")
+    print("Starting Call Quality Auto-Flagger Pipeline")
     print("="*50)
 
     # 1. Generate & Load Data
@@ -57,7 +57,7 @@ def run_pipeline():
     with open("outputs/classification_metrics.json", "w") as f:
         json.dump(report, f, indent=4)
         
-    print("\n🎉 Pipeline Completed Successfully! 🎉")
+    print("\nPipeline Completed Successfully!")
 
 if __name__ == "__main__":
     run_pipeline()
